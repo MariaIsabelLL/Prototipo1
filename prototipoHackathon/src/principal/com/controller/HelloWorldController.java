@@ -20,6 +20,19 @@ public class HelloWorldController {
 	      return "/jsp/index.jsp";
 	   }
 	   
+	   
+	   @RequestMapping(value="/redes", method = RequestMethod.GET)
+	   public String redes(ModelMap model) {
+		      model.addAttribute("msgArgument", "Maven Java Web Application Project: Success!");		 
+		  return "redesSociales.jsp";
+	   }
+	   
+	   @RequestMapping(value="/videos", method = RequestMethod.GET)
+	   public String video(ModelMap model) {
+		      model.addAttribute("msgArgument", "Maven Java Web Application Project: Success!");		 
+		  return "videollamadas.jsp";
+	   }
+	   
 	   @RequestMapping(value="/Juego2", method = RequestMethod.GET)
 	   public String juego2(ModelMap model) {
 		      model.addAttribute("msgArgument", "Maven Java Web Application Project: Success!");		 
@@ -29,7 +42,7 @@ public class HelloWorldController {
 	   @RequestMapping(value="/Aprender", method = RequestMethod.GET)
 	   public String aprender(ModelMap model) {
 		      model.addAttribute("msgArgument", usuario);		 
-		  return "indexAprender.jsp";
+		  return "Cursos.jsp";
 	   }
 	   	   
 	   @RequestMapping(value="/Inicio", method = RequestMethod.POST)
@@ -40,6 +53,6 @@ public class HelloWorldController {
 	      usuario = login;
 	      System.out.print(login);
 	      //model.addAttribute("msgArgument2", password);		 	 
-	      return "indexFinal.jsp";
+	      return "principal.jsp";
 	   }
 }
