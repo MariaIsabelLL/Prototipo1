@@ -1,0 +1,15 @@
+@import "compass/css3";
+
+* { box-sizing: border-box; }
+
+body {
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  color:green;
+  font-size:12px;
+  background:#ffffffurl(/images/classy_fabric.png);
+}
+
+table {
+	width: 25%;
+	height: 10px;
+}
