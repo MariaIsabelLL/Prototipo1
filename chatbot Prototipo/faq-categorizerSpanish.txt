@@ -1,0 +1,5 @@
+saludos	 hola como estás? buenos días buenas tardes buenas noches 
+conversacion-continua de acuerdo
+precio-consulta Cuanto cuesta? Cuál es el precio? Cuál es el costo? Cuanto está? precio costo dinero 
+producto-consulta Qué es este producto? Qué hace este producto? Cuál es el nombre del producto? Puedes decirme algo sobre este producto? Características del producto. Digame las ventajas del producto. 
+conversacion-completa	 Gracias eso es todo Gracias por tu información.

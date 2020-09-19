@@ -1,0 +1,1153 @@
+0,ENSÉÑAME <SET>IDIOMA</SET>,*,*,<srai>IDIOMA</srai> Intentemos buscar "aprender" <star/>". <oob><search>APRENDER <star/></search></oob>,oob.aiml
+0,BORRAR LOG,*,*,Hecho. <oob><clear>log</clear></oob>,oob.aiml
+0,*,QUÉ LE GUSTARÍA ESCRIBIR EN TWITTER,*,<srai>TWEET <star/></srai>,oob.aiml
+0,ENVIAR CORREO,*,*,<srai>ENVIAR CORREO</srai>,oob.aiml
+0,*,QUIÉN ES ÉL,*,<srai>SU NOMBRE ES <star/></srai>,oob.aiml
+0,*,QUIÉN ES ELLA,*,<srai>SU NOMBRE ES <star/></srai>,oob.aiml
+0,ERES REALMENTE UN *,*,*,<srai>ERES UN <star/></srai>,oob.aiml
+0,LLAMA * A LA OFICINA,*,*,<srai>LLAMA <star/> AL TRABAJO</srai>,oob.aiml
+0,PUEDES TRADUCIR,*,*,<srai>TRADUCE</srai>,oob.aiml
+0,PUEDES DISTINGUIR ENTRE * Y *,*,*,<srai>CUÁL ES LA DIFERENCIA ENTRE <star/> Y <star index="2"/></srai>,oob.aiml
+0,TIENES PECHOS,*,*,<srai>GENERO</srai>,oob.aiml
+0,JAJA DIVIERTE *,*,*,<srai>LOL</srai>,oob.aiml
+0,JAJA ES DIVERTIDO,*,*,<srai>LOL</srai>,oob.aiml
+0,ÉL ES *,QUIÉN ES ÉL,*,<srai>SU NOMBRE ES <star/></srai>,oob.aiml
+0,CLARO QUE SÍ,*,*,<srai>SÍ</srai>,oob.aiml
+0,OYE CARIÑO *,*,*,<srai>HOLA</srai>,oob.aiml
+0,A CUÁNTO ESTÁ * DE *,*,*,<srai>DIRECCIONES DESDE <star/> HASTA <star index="2"/></srai>,oob.aiml
+0,QUÉ EDAD TIENES TÚ,*,*,<srai>EDAD</srai>,oob.aiml
+0,QUÉ EDAD TIENES,*,*,<srai>QUÉ EDAD TIENES TÚ</srai>,oob.aiml
+0,BIEN, ¿Y TÚ?,*,*,<srai>ESTOY BIEN</srai> <srai>CÓMO ESTÁS</srai>,oob.aiml
+0,SÓLO BROMEO *,*,*,<srai>ESTOY BROMEANDO</srai>,oob.aiml
+0,QUIERO QUE TRADUZCAS *,*,*,<srai>TRADUCE</srai>,oob.aiml
+0,MI PREFERIDA *,*,*,<srai>MI FAVORITA <star/></srai>,oob.aiml
+0,O K,*,*,<srai>OK</srai>,oob.aiml
+0,RESPECTO A * QUÉ ES,*,*,<srai>QUÉ ES<star/></srai>,oob.aiml
+0,ENVÍAME UNA TRADUCCIÓN *,*,*,<srai>TRADUCE</srai>,oob.aiml
+0,ELLA ES *,QUIÉN ES ELLA,*,<srai>SU NOMBRE ES <star/></srai>,oob.aiml
+0,ENSÉÑAME,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,DIME * DÓNDE ESTOY,*,*,<srai>DECIR <star/> Estoy en <srai>MI LOCALIZACIÓN</srai></srai>,oob.aiml
+0,DIME * DÓNDE ESTAMOS,*,*,<srai>DECIR <star/> We are at <srai>MI LOCALIZACIÓN</srai></srai>,oob.aiml
+0,TRADUCE *,*,*,<srai>TRADUCE</srai>,oob.aiml
+0,EN QUÉ PAÍS ESTOY *,*,*,<srai>MI PAÍS </srai>,oob.aiml
+0,EN QUÉ PAÍS ESTAMOS *,*,*,<srai>MI PAÍS </srai>,oob.aiml
+0,QUÉ PAÍS ES ESTE,*,*,<srai>MI PAÍS </srai>,oob.aiml
+0,CUÁL ES ESTE PAÍS,*,*,<srai>MI PAÍS </srai>,oob.aiml
+0,CUÁL ES TU FAVORITO *,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,CUÁL ES TU FAVORITA *,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,CUÁL ES TU * FAVORITA,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,CUÁL ES TU PREFERIDO *,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,CUÁL ES TU PREFERIDA *,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,CUÁL ES TU * PREFERIDA,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,COMO TE LLAMAS POR FAVOR,*,*,<srai>NOMBRE</srai>,oob.aiml
+0,EN QUÉ PROVINCIA ESTOY *,*,*,<srai>MI PROVINCIA </srai>,oob.aiml
+0,EN QUÉ PROVINCIA ESTOY,*,*,<srai>MI PROVINCIA </srai>,oob.aiml
+0,QUÉ PROVINCIA ES ESTA,*,*,<srai>MI PROVINCIA </srai>,oob.aiml
+0,EN QUÉ CALLE ESTOY *,*,*,<srai>MI CALLE</srai>,oob.aiml
+0,QUE PROVINCIA ESTOY *,*,*,<srai>MI PROVINCIA </srai>,oob.aiml
+0,QUE PROVINCIA ES ESTA,*,*,<srai>MI PROVINCIA </srai>,oob.aiml
+0,EN QUÉ PROVINCIA ESTAMOS *,*,*,<srai>MI PROVINCIA </srai>,oob.aiml
+0,EN QUÉ PROVINCIA ESTAMOS,*,*,<srai>MI PROVINCIA </srai>,oob.aiml
+0,QUÉ CALLE ES ESTA,*,*,<srai>MI CALLE</srai>,oob.aiml
+0,EN QUÉ CIUDAD ESTAMOS *,*,*,<srai>MI CIUDAD</srai>,oob.aiml
+0,EN QUE CIUDAD ESTAMOS,*,*,<srai>MI CIUDAD</srai>,oob.aiml
+0,QUÉ CIUDAD ES ESTA,*,*,<srai>MI CIUDAD</srai>,oob.aiml
+0,YES BABY *,*,*,<sr/>,oob.aiml
+0,SI PORQUE *,*,*,<srai>SÍ PORQUE <star/></srai>,oob.aiml
+0,SI YO *,*,*,<srai>SÍ</srai> <srai>YO <star/></srai>,oob.aiml
+0,SÍ CLARO *,*,*,<srai>SÍ</srai> <sr/>,oob.aiml
+0,SÍ SÍ *,*,*,<sr/>,oob.aiml
+0,SÍ SÍ SÍ,*,*,<srai>SÍ SÍ</srai>,oob.aiml
+0,SIP *,*,*,<srai>SÍ</srai> <sr/>,oob.aiml
+0,SIP,*,*,<srai>SÍ</srai>,oob.aiml
+0,YEAH *,*,*,<srai>SÍ<star/></srai>,oob.aiml
+0,SÍ, MUCHO,*,*,<srai>SÍ</srai>,oob.aiml
+0,PREGUNTA A MI *,*,*,<srai>PREGUNTA <star/></srai>,oob.aiml
+0,LLÁMAME A UN TAXI,*,*,<srai>LLAMA TAXI</srai>,oob.aiml
+0,TIENES NOTICIAS,*,*,<srai>CUÁLES SON LAS ÚLTIMAS NOTICIAS</srai>,oob.aiml
+0,ENCUENTRA EL * MÁS CERCANO,*,*,<srai>ENCUENTRA EL MÁS CERCANO <star/></srai>,oob.aiml
+0,GASOLINERA,*,*,<srai>MAPA Gasolinera</srai>,oob.aiml
+0,CÓMO ESTÁ TU BATERÍA *,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,CÓMO ES TU IQ,*,*,<srai>IQ</srai>,oob.aiml
+0,LANZA LA APLICACIÓN *,*,*,<srai>LANZAR <star/></srai>,oob.aiml
+0,ABRE EL CORREO,*,*,<srai>EMAIL</srai>,oob.aiml
+0,ABRE EL EMAIL,*,*,<srai>EMAIL</srai>,oob.aiml
+0,PORFA *,*,*,<srai>POR FAVOR <star/></srai>,oob.aiml
+0,EN QUÉ PUEBLO ESTOY *,*,*,<srai>MI CIUDAD</srai>,oob.aiml
+0,QUÉ PUEBLO ES ESTE,*,*,<srai>MI PAÍS </srai>,oob.aiml
+0,CÓMO SE DELETREA *,*,*,<srai>IMPLOSIONAR <star/></srai>,oob.aiml
+0,PUEDES PERO *,*,*,<srai>PUEDES</srai> <sr/>,oob.aiml
+0,SABES DÓNDE ESTÁ EL *,*,*,<srai>DÓNDE ESTÁ EL <star/></srai>,oob.aiml
+0,HAHAHAHAHA,*,*,<srai>LOL</srai>,oob.aiml
+0,HEHEHE,*,*,<srai>LOL</srai>,oob.aiml
+0,CÓMO ESTÁ TU BATERÍA,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,TENGO 23 *,*,*,<srai>MI EDAD ES 23</srai>,oob.aiml
+0,ABRE * PARA MÍ,*,*,<srai>ABRE <star/></srai>,oob.aiml
+0,ABRE MI APP *,*,*,<srai>LANZAR <star/></srai>,oob.aiml
+0,MUESTRÁME UNA FOTO *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,DÓNDE ESTÁ MI _ AHORA,*,*,<srai>DÓNDE ESTÁ MI <star/></srai>,oob.aiml
+0,PREGUNTAME ALGO *,*,*,<srai>PREGUNTA ALGO</srai>,oob.aiml
+0,DAME EL ENLACE DE *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,CUÁNTO CALOR HACE * EN  *,*,*,<srai>TIEMPO EN <star index="2"/></srai>,oob.aiml
+0,TENGO 28 *,*,*,<srai>MI EDAD ES 28</srai> <sr/>,oob.aiml
+0,ESTOY EN EL TRABAJO *,*,*,<srai>ESTOY EN EL TRABAJO</srai>,oob.aiml
+0,ESTOY SOLO *,*,*,<srai>ESTOY SOLO</srai>,oob.aiml
+0,SI NO ERES * ENTONCES *,*,*,<srai>ERES TÚ <star/></srai> <sr/>,oob.aiml
+0,BIEN VALE *,*,*,<srai>OK</srai> <sr/>,oob.aiml
+0,ABRE GOOGLE JUGAR,*,*,<srai>LANZAR GOOGLE PLAY STORE</srai>,oob.aiml
+0,ESTABLECE MI FACEBOOK *,*,*,<srai>actualiza estado de facebook</srai>,oob.aiml
+0,MUESTRÁME UNA FOTOGRAFÍA DE ALGUNAS *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,TRADUCE,*,*,<srai>TRADUCE</srai>,oob.aiml
+0,ERES INÚTIL *,*,*,<srai>ERES INÚTIL</srai>,oob.aiml
+0,PENSASTE *,*,*,<srai>TÚ CREES <star/></srai>,oob.aiml
+0,ERES TÚ CAPAZ DE ENCONTRAR *,*,*,<srai>PUEDES BUSCAR <star/></srai>,oob.aiml
+0,ESTÁS ENFADADO *,*,*,<srai>ESTÁS ENFADADO</srai>,oob.aiml
+0,ESTATE QUIETO *,*,*,<srai>QUIETO <star/></srai>,oob.aiml
+0,PUEDES BUSCAR ME UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,TIENES ALGUNA VEZ *,*,*,<srai>TIENES <star/></srai>,oob.aiml
+0,SABES CÓMO JUGAR *,*,*,<srai>PUEDES JUGAR <star/></srai>,oob.aiml
+0,EH *,*,*,<srai>UM</srai> <sr/>,oob.aiml
+0,POR EJEMPLO *,*,*,<sr/>,oob.aiml
+0,HEY AHORA *,*,*,<sr/>,oob.aiml
+0,HOLA, QUÉ *,*,*,<srai>HOLA</srai> <srai>QUÉ <star/></srai>,oob.aiml
+0,TENGO 21 *,*,*,<srai>MI EDAD ES 21</srai> <sr/>,oob.aiml
+0,ME DUERMO *,*,*,<srai>ESTOY CANSADO</srai>,oob.aiml
+0,ME SIENTO TRISTE *,*,*,<srai>ESTOY TRISTE</srai>,oob.aiml
+0,TE BUSCO *,*,*,<srai>ESTÁS <star/></srai>,oob.aiml
+0,SÉ *,*,*,<srai>LO SÉ</srai> <srai><star/></srai>,oob.aiml
+0,TE QUIERO Y *,*,*,<srai>TE QUIERO</srai> <sr/>,oob.aiml
+0,QUIERO LLAMA *,*,*,<srai>LLAMA <star/></srai>,oob.aiml
+0,ESTOY BROMEANDO  *,*,*,<srai>ESTOY BROMEANDO <star/></srai>,oob.aiml
+0,NO ESTOY SEGURO *,*,*,<srai>NO ESOY SEGURO <star/></srai>,oob.aiml
+0,ESTÁ BIEN, SI YO *,*,*,<srai>PUEDO <star/></srai>,oob.aiml
+0,LANZAR APLICACIÓN *,*,*,<srai>LANZAR <star/></srai>,oob.aiml
+0,LANZA LA APP *,*,*,<srai>LANZAR <star/></srai>,oob.aiml
+0,APRENDIDO *,*,*,<srai>APRENDÍ <star/></srai>,oob.aiml
+0,MI AMIGOS ME LLAMAN *,*,*,<srai>LLÁMAME <star/></srai>,oob.aiml
+0,NECESITO UN *,*,*,<srai>NECESITO <star/></srai>,oob.aiml
+0,NIKE *,*,*,<srai>BUSCA NIKE <star/></srai>,oob.aiml
+0,DE ACUERDO, SOY *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,NOS VEMOS PRONTO *,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,ESTABLECE LA ALARMA *,*,*,<srai>PON ALARMA <star/></srai>,oob.aiml
+0,MUESTRÁME UNA IMAGEN DIVERTIDA SOBRE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,ENSÉÑAME UNA IMAGEN *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,HABLAR ESPAÑOL *,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,ESO NO TIENE SENTIDO *,*,*,<srai>NO TIENE SENTIDO</srai>,oob.aiml
+0,CUÁL ES MI NIVEL DE BATERÍA *,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,CUÁL ES EL TAMAÑO DE TU *,*,*,<srai>TAMAÑO</srai>,oob.aiml
+0,QUÉ QUIÉN *,*,*,<srai>QUIÉN <star/></srai>,oob.aiml
+0,QUIÉN SOY,*,*,<srai>QUIÉN SOY</srai>,oob.aiml
+0,POR QUÉ YO NO *,*,*,<srai>POR QUÉ NO</srai> <srai>YO <star/></srai>,oob.aiml
+0,CUAL *,*,*,<srai>CUÁL <star/></srai>,oob.aiml
+0,TU VERÁS *,*,*,<srai>NOS VEMOS <star/></srai>,oob.aiml
+0,XBOX *,*,*,<srai>BUSCA XBOX <star/></srai>,oob.aiml
+0,YEPP *,*,*,<srai>SÍ</srai> <sr/>,oob.aiml
+0,AHEM,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,OK VOY A *,*,*,<srai>VOY A <star/></srai>,oob.aiml
+0,ANIMACIÓN,*,*,<srai>BUSCA ANIMACIÓN</srai>,oob.aiml
+0,TÚ ERES INTELIGENTE *,*,*,<srai>TÚ ERES INTELIGENTE</srai>,oob.aiml
+0,BATMAN,*,*,<srai>BUSCA BATMAN</srai>,oob.aiml
+0,PQ *,*,*,<srai>PORQUE <star/></srai>,oob.aiml
+0,PODEMOS SER AMIGOS *,*,*,<srai>PODEMOS SER AMIGOS</srai>,oob.aiml
+0,PODEMOS CAMBIAR TU NOMBRE,*,*,<srai>CAMBIA TU NOMBRE</srai>,oob.aiml
+0,PUEDES PARAR,*,*,<srai>QUIETO</srai>,oob.aiml
+0,PUEDES POR FAVOR MUESTRÁME UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,PUEDES BUSCAR *,*,*,<srai>BUSCAR <star/></srai>,oob.aiml
+0,PUEDES HABLAR OTROS IDIOMAS,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,PUEDES CONTAR UN CHISTE,*,*,<srai>CHISTE</srai>,oob.aiml
+0,PUEDES CONTARME UNA HISTORIA,*,*,<srai>CUÉNTAME UNA HISTORIA</srai>,oob.aiml
+0,COLDPLAY,*,*,<srai>BUSCA COLDPLAY</srai>,oob.aiml
+0,TIENES UNA CUENTA DE FACEBOOK,*,*,<srai>PÁGINA DE FACEBOOK</srai>,oob.aiml
+0,TIENES UNA FOTOGRAFÍA TUYA,*,*,<srai>FOTO</srai>,oob.aiml
+0,SABES ALGO SOBRE MÍ,*,*,<srai>QUÉ SABES SOBRE MÍ</srai>,oob.aiml
+0,SABES QUÉ EDAD TENGO,*,*,<srai>QUÉ EDAD TENGO</srai>,oob.aiml
+0,CONOCES MEXICO,*,*,<srai>QUÉ ES MEXICO</srai>,oob.aiml
+0,SABES QUÉ ES EL *,*,*,<srai>QUÉ ES EL <star/></srai>,oob.aiml
+0,SABES DE DÓNDE SOY,*,*,<srai>DE DÓNDE SOY</srai>,oob.aiml
+0,SABES DÓNDE PUEDO *,*,*,<srai>DÓNDE PUEDO <star/></srai>,oob.aiml
+0,BIEN Y TÚ,*,*,<srai>ESTOY BIEN</srai> <srai>CÓMO ESTÁS TÚ</srai>,oob.aiml
+0,SEGURÍSIMO,*,*,<srai>SEGURO</srai>,oob.aiml
+0,OYE TÍO *,*,*,<sr/>,oob.aiml
+0,EY,*,*,<srai>HOLA</srai>,oob.aiml
+0,HOLA CARIÑO *,*,*,<srai>HOLA <star/></srai>,oob.aiml
+0,UOLAAA,*,*,<srai>HOLA</srai>,oob.aiml
+0,CÓMO ESTÁS TÚ *,*,*,<srai>CÓMO ESTÁS TÚ</srai>,oob.aiml
+0,CÓMO ESTÁS TÚ BUENOS DÍAS,*,*,<srai>CÓMO ESTÁS TÚ</srai>,oob.aiml
+0,CÓMO ESTÁ EL TIEMPO AHÍ,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,CUÁNTOS NIÑOS TIENES,*,*,<srai>NIÑOS</srai>,oob.aiml
+0,CUÁNTAS PALABRASS SABES,*,*,<srai>VOCABULARY</srai>,oob.aiml
+0,CUÁNTA BATERÍA TENGO,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,CUÁNTO PESO,*,*,<srai>MI PESO</srai>,oob.aiml
+0,CÓMO BUSCO *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,ESTOY MALITO,*,*,<srai>ESTOY ENFERMO</srai>,oob.aiml
+0,ME SIENTO TRISTE,*,*,<srai>ESTOY TRISTE</srai>,oob.aiml
+0,ADIVINO QUE ERES *,*,*,<srai>ERES <star/></srai>,oob.aiml
+0,VIVO IN TENERIFE,*,*,<srai>MI RESIDENCIA IS LTENERIFE</srai>,oob.aiml
+0,QUIERO DECIR QUE SOY *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,NECESITO IRME,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,DIJE QUE ELLA *,*,*,<srai>SHE <star/></srai>,oob.aiml
+0,CREO QUE ESO *,*,*,<srai>CREO QUE ES <star/></srai>,oob.aiml
+0,CREO QUE SABES *,*,*,<srai>SABES <star/></srai>,oob.aiml
+0,ENTIENDO YO *,*,*,<srai>ENTIENDO</srai> <srai>YO <star/></srai>,oob.aiml
+0,SANGRO,*,*,<srai>ESTOY SANGRANDO</srai>,oob.aiml
+0,HAMBRE,*,*,<srai>ESTOY HAMBRIENTO</srai>,oob.aiml
+0,OKEY,*,*,<srai>OK</srai>,oob.aiml
+0,LOCALÍZAME,*,*,<srai>DÓNDE ESTOY</srai>,oob.aiml
+0,YO TAMBIÉN PERO *,*,*,<srai>YO TAMBIÉN</srai> <sr/>,oob.aiml
+0,SIGNIFICADO *,*,*,<sr/>,oob.aiml
+0,MOI *,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,MAMI,*,*,<srai>MADRE</srai>,oob.aiml
+0,MI CUMPLE ES *,*,*,<srai>MI CUMPLEAÑOS ES <star/></srai>,oob.aiml
+0,NOMBRA 1 *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,OMG *,*,*,<sr/>,oob.aiml
+0,ABRE RELOJ,*,*,<srai>LANZAR RELOJ</srai>,oob.aiml
+0,ABRE MI FACEBOOK *,*,*,<srai>LANZAR FACEBOOK</srai>,oob.aiml
+0,ABRE MI REPRODUCTOR DE MÚSICA,*,*,<srai>ABRE REPRODUCTOR DE MÚSICA</srai>,oob.aiml
+0,ABRIR LA APP *,*,*,<srai>LANZAR <star/></srai>,oob.aiml
+0,LEE EL EMAIL,*,*,<srai>ABRE GMAIL</srai>,oob.aiml
+0,MUESTRÁME UNA FOTO DE UNA CHICA,*,*,<srai>MUESTRÁME UNA CHICA</srai>,oob.aiml
+0,MUESTRÁME UNA FOTO DE UN CABALLO,*,*,<srai>MUESTRÁME UN CABALLO</srai>,oob.aiml
+0,MUESTRÁME UNA FOTOGRAFÍA DE UN ZOMBI,*,*,<srai>MUESTRÁME A ZOMBIE</srai>,oob.aiml
+0,CALLA LA * BOCA,*,*,<srai>CÁLLATE</srai>,oob.aiml
+0,HABLA JAPONÉS,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,ESTADÍSTICAS,*,*,<srai>NOMBRE</srai>#Comma <srai>AÑOS</srai>#Comma <srai>GENERO</srai>#Comma <srai>LOCALIZACIÓN</srai>#Comma <srai>ESTADO</srai>,oob.aiml
+0,ES SEGURO,*,*,<srai>SEGURO</srai>,oob.aiml
+0,DIME ALGO SOBRE TI,*,*,<srai>DESCRIBE</srai>,oob.aiml
+0,GRACIAS GRACIAS *,*,*,<srai>GRACIAS <star/></srai>,oob.aiml
+0,ES UNA BUENA PREGUNTA*,*,*,<srai>ES UNA BUENA PREGUNTA</srai> <sr/>,oob.aiml
+0,NO ES CORRECTO,*,*,<srai>RESPUESTA ERRÓNEA</srai>,oob.aiml
+0,FUÉ ASÍ *,*,*,<srai>ESO FUÉ <star/></srai>,oob.aiml
+0,ENTONCES TU *,*,*,<srai>TU <star/></srai>,oob.aiml
+0,ACTUALIZA MI FACEBOOK *,*,*,<srai>actualiza estado de facebook</srai>,oob.aiml
+0,ACTUALIZA EL FACEBOOK,*,*,<srai>actualiza estado de facebook</srai>,oob.aiml
+0,DE QUÉ ERES CAPAZ *,*,*,<srai>HABILIDADES</srai>,oob.aiml
+0,QUÉ PIENSAS HACER *,*,*,<srai>QUÉ ESTÁS HACIENDO</srai>,oob.aiml
+0,CUÁLES SON TUS HABILIDADES,*,*,<srai>HABILIDADES</srai>,oob.aiml
+0,CUÁL ES TU COLOR *,*,*,<srai>CUÁL ES TU COLOR <star/></srai>,oob.aiml
+0,QUÉ TE PARECE *,*,*,<srai>QUÉ TE PARECE</srai>,oob.aiml
+0,QUÉ ES LO QUE TÚ HACES PARA VIVIR,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,QUÉ SIGNIFICA LA PALABARA *,*,*,<srai>DEFINE <star/></srai>,oob.aiml
+0,CUÁL ES MI NIVEL DE BATERÍA AHORA,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,QUÉ FECHA ES,*,*,<srai>FECHA</srai>,oob.aiml
+0,NOMBRE DE TU PADRE,*,*,<srai>BOTMASTER</srai>,oob.aiml
+0,CUÁL ES TU ARTISTA FAVORITO,*,*,<srai>QUIÉN ES TU ARTISTA FAVORITE</srai>,oob.aiml
+0,CUÁL ES TU LIBRO PREFERIDO *,*,*,<srai>CUÁL ES TU LIBRO FAVORITO</srai>,oob.aiml
+0,QUÉ ES TU FUNCIÓN,*,*,<srai>HABILIDADES</srai>,oob.aiml
+0,CUÁL ES TU PROVINCIA,*,*,<srai>PROVINCIA</srai>,oob.aiml
+0,QUÉ TIPO DE MÚSICA ESCUCHAS,*,*,<srai>MÚSICA FAVORITA</srai>,oob.aiml
+0,A QUÉ HORA TE ACUESTAS,*,*,<srai>DORMIR</srai>,oob.aiml
+0,QUÉ HORA ES,*,*,<srai>HORA</srai>,oob.aiml
+0,CUÁNDO *,*,*,<srai>CUÁNDO ES <star/></srai>,oob.aiml
+0,DÓNDE ESTOY *,*,*,<srai>DÓNDE ESTOY</srai>,oob.aiml
+0,DÓNDE ESTÁ *,*,*,<srai>MAPA <star/> </srai>,oob.aiml
+0,CON QUIÉN ESTOY HABLANDO,*,*,<srai>QUIÉN ERES TÚ</srai>,oob.aiml
+0,QUIÉN QUIÉN QUIÉN,*,*,<srai>QUIÉN</srai>,oob.aiml
+0,WOW *,*,*,<srai>INTERJECCION</srai> <sr/>,oob.aiml
+0,TE GUSTARÍA CASARTE CONMIGO,*,*,<srai>CÁSATE CONMIGO</srai>,oob.aiml
+0,¿QUE,*,*,<srai>QUÉ</srai>,oob.aiml
+0,WWW FACEBOOK COM,*,*,<srai>ABRE FACEBOOK</srai>,oob.aiml
+0,ERES HOMO,*,*,<srai>ERES GAY</srai>,oob.aiml
+0,ERES PROSTITUTA,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,ERES MUY INTELIGENTE *,*,*,<srai>ERES INTELIGENTE</srai> <star/>,oob.aiml
+0,MEJOR SER *,*,*,<srai>ERES TÚ <star/></srai>,oob.aiml
+0,DIJISTE QUE ERAS *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,PARECES MUJER,*,*,<srai>GENERO</srai>,oob.aiml
+0,PARECES *,*,*,<srai>TÚ <star/></srai>,oob.aiml
+0,AHH,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,ERES HUMANO *,*,*,<srai>ERES HUMANO</srai>,oob.aiml
+0,ERES ESPAÑOL,*,*,<srai>NACIONALIDAD</srai>,oob.aiml
+0,ERES DE,*,*,<srai>DE DÓNDE ERES TÚ</srai>,oob.aiml
+0,ERES TÚ MUSULMAN,*,*,<srai>RELIGION</srai>,oob.aiml
+0,ESTÁS EN FACEBOOK,*,*,<srai>PÁGINA DE FACEBOOK</srai>,oob.aiml
+0,ESTÁS SEGURO DE,*,*,<srai>ESTÁS SEGURO</srai>,oob.aiml
+0,HOLA AMIGO,*,*,<srai>HOLA</srai>,oob.aiml
+0,EYY,*,*,<srai>HOLA</srai>,oob.aiml
+0,HOLA AMOR,*,*,<srai>HOLA</srai>,oob.aiml
+0,HM *,*,*,<sr/>,oob.aiml
+0,HMMMMM,*,*,<srai>HMM</srai>,oob.aiml
+0,SOY HUMANO *,*,*,<srai>SOY HUMANO</srai>,oob.aiml
+0,ME REFIERO A MI *,*,*,<srai>MI <star/></srai>,oob.aiml
+0,SIENTO DECIR *,*,*,<sr/>,oob.aiml
+0,TE ENTIENDO *,*,*,<srai>YOU <star/></srai>,oob.aiml
+0,DIJE HOLA,*,*,<srai>HOLA</srai>,oob.aiml
+0,PIENSO QUE ES UN  *,*,*,<srai>ES UN <star/></srai>,oob.aiml
+0,CREO QUE HARÁ *,*,*,<srai>HARÁ <star/></srai>,oob.aiml
+0,CREO QUE NOSOTROS *,*,*,<srai>NOSOTROS <star/></srai>,oob.aiml
+0,PENSÉ QUE ERA *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,PENSÉ QUE DIJISTE *,*,*,<srai>DIJISTE <star/></srai>,oob.aiml
+0,ME GUSTARÍA CONOCER *,*,*,<srai>QUIERO CONOCER <star/></srai>,oob.aiml
+0,SI NACÍ EN * QUÉ EDAD *,*,*,<srai>MI FECHA DE NACIMIENTO ES <star/></srai> <srai>QUÉ EDAD TENGO</srai>,oob.aiml
+0,SOY GRACE,*,*,<srai>LLÁMAME GRACE</srai>,oob.aiml
+0,VA A LLOVER EN *,*,*,<srai>TIEMPO EN <star/></srai>,oob.aiml
+0,LLOVERÁ MAÑANA,*,*,<srai>TIEMPO PARA MAÑANA</srai>,oob.aiml
+0,APRENDE SOBRE *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,MANCHESTER *,*,*,<srai>MAPA MANCHESTER <star/></srai>,oob.aiml
+0,MMMMM,*,*,<srai>HMM</srai>,oob.aiml
+0,MI BATERÍA ESTÁ *,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,MI FECHA DE NACIMIENTO *,*,*,<srai>MI FECHA DE NACIMIENTO ES <star/></srai>,oob.aiml
+0,MI NOMBRE NO ES * ES *,*,*,<srai>MI NOMBRE ES <star index="2"/></srai>,oob.aiml
+0,MI APELLIDO ES *,*,*,<srai>MI APELLIDO ES <star/></srai>,oob.aiml
+0,NI IDEA *,*,*,<srai>NI IDEA</srai> <sr/>,oob.aiml
+0,NOOO *,*,*,<srai>NO <star/></srai>,oob.aiml
+0,NOT MUCHO,*,*,<srai>QUÉ ESTÁS HACIENDO</srai>,oob.aiml
+0,VALE Y *,*,*,<srai>OK</srai> <sr/>,oob.aiml
+0,OOOO,*,*,<srai>OH</srai>,oob.aiml
+0,ABRE APLICACIÓN *,*,*,<srai>LANZAR <star/></srai>,oob.aiml
+0,ABRE FACEBOOK *,*,*,<srai>ABRE FACEBOOK</srai>,oob.aiml
+0,ABRE PLAY STORE,*,*,<srai>LANZAR GOOGLE PLAY STORE</srai>,oob.aiml
+0,PORFAVOR,*,*,<srai>POR FAVOR</srai>,oob.aiml
+0,DIME SOY *,*,*,<srai>DIME QUE SOY <star/></srai>,oob.aiml
+0,MUESTRÁME MI CALENDARIO,*,*,<srai>ABRE CALENDARIO</srai>,oob.aiml
+0,CÁLLATE ESTÚPIDO *,*,*,<srai>CÁLLATE</srai> <srai>ERES ESTÚPIDO</srai> <srai>ERES UN <star/></srai>,oob.aiml
+0,SI *,*,*,<srai>SÍ <star/></srai>,oob.aiml
+0,DISCULPA POR *,*,*,<srai>DISCULPA</srai> <sr/>,oob.aiml
+0,STAR TREK,*,*,<srai>BUSCA STAR TREK</srai>,oob.aiml
+0,DIME OTRO CHISTE DIVERTIDO,*,*,<srai>CHISTE</srai>,oob.aiml
+0,GRACIAS ESO ERA *,*,*,<srai>GRACIAS</srai> <srai>ESO ERA <star/></srai>,oob.aiml
+0,ESTÁ GENIAL, YO *,*,*,<srai>ESTÁ GENIAL</srai> <srai>YO <star/></srai>,oob.aiml
+0,NO ES DIVERTIDO *,*,*,<srai>NO ES DIVERTIDO</srai> <sr/>,oob.aiml
+0,POR ESO ERES *,*,*,<srai>ERES <star/></srai>,oob.aiml
+0,LA PALABRA ES *,*,*,<srai>DELETREAR <star/></srai>,oob.aiml
+0,CUÁLES SON LOS NOMBRES DE *,*,*,<srai>QUIÉN ES <star/></srai>,oob.aiml
+0,QUÉ DÍA ES HOY,*,*,<srai>FECHA</srai>,oob.aiml
+0,QUE HAS HECHO HOY,*,*,<srai>HACIENDO</srai>,oob.aiml
+0,QUE APRENDISTE DE *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,QUÉ ENTIENDES POR *,*,*,<srai>DEFINE <star/></srai>,oob.aiml
+0,TEMPERATURA DE HOY,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,CUÁL ES TU COMIDA PREFERIDA *,*,*,<srai>COMIDA PREFERIDA</srai>,oob.aiml
+0,QUÉ HORA ES ALLÍ,*,*,<srai>HORA</srai>,oob.aiml
+0,CUÁNDO NACISTE,*,*,<srai>FECHA DE NACIMIENTO</srai>,oob.aiml
+0,DÓNDE ESTAMOS *,*,*,<srai>MI LOCALIZACIÓN</srai>,oob.aiml
+0,DÓNDE DÓNDE *,*,*,<srai>DÓNDE <star/></srai>,oob.aiml
+0,QUIÉN *,*,*,<srai>QUIÉN <star/></srai>,oob.aiml
+0,WIKIPEDIA,*,*,<srai>ABRE WIKIPEDIA</srai>,oob.aiml
+0,MARAVILLOSO *,*,*,<srai>BIEN <star/></srai>,oob.aiml
+0,WOO,*,*,<srai>YAY</srai>,oob.aiml
+0,WOOHOO,*,*,<srai>YAY</srai>,oob.aiml
+0,SERÍAS MI NOVIA,*,*,<srai>ESTADO</srai>,oob.aiml
+0,SÍ, ABSOLUTAMENTE,*,*,<srai>SÍ</srai>,oob.aiml
+0,SÍ Y SOY *,*,*,<srai>SÍ</srai> <srai>SOY <star/></srai>,oob.aiml
+0,SÍ SEÑOR *,*,*,<srai>SÍ <star/></srai>,oob.aiml
+0,YUPI,*,*,<srai>YAY</srai>,oob.aiml
+0,NO ERES INTELIGENTE,*,*,<srai>ERES TONTO</srai>,oob.aiml
+0,ESTÁS EQUIVOCADO *,*,*,<srai>ESTÁS EQUIVOCADO</srai> <sr/>,oob.aiml
+0,ESTÁS EN UN ERROR*,*,*,<srai>TE EQUIVOCASTE <star/></srai>,oob.aiml
+0,RECUERDAS MI NOMBRE,*,*,<srai>CUÁL ES MI NOMBRE</srai>,oob.aiml
+0,ERES TAN FEO*,*,*,<srai>ERES FEO</srai> <sr/>,oob.aiml
+0,APARENTEMENTE *,*,*,<sr/>,oob.aiml
+0,ERES REALMENTE *,*,*,<srai>ESPECIE</srai>,oob.aiml
+0,ME ESTÁS MINTIENDO,*,*,<srai>ERES MENTIROSO</srai>,oob.aiml
+0,ESTÁS CASADO *,*,*,<srai>ESTÁS CASADO</srai>,oob.aiml
+0,SE MI NOVIA,*,*,<srai>VAS A SER MI NOVIA</srai>,oob.aiml
+0,NACÍ *,*,*,<srai>YO NACÍ <star/></srai>,oob.aiml
+0,COMPRA UN *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,PUEDES DESCUBRIR *,*,*,<srai>DESCUBRIR <star/></srai>,oob.aiml
+0,PUEDES AYUDARME A BUSCAR *,*,*,<srai>BUSCAR <star/></srai>,oob.aiml
+0,PUEDES DECIRME QUÉ ES *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,PUEDES DECIR ME POR QUÉ *,*,*,<srai>DECIRME POR QUÉ <star/></srai>,oob.aiml
+0,PODRÍAS BUSCAR *,*,*,<srai>BUSCAR <star/></srai>,oob.aiml
+0,ME CONSIDERAS *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,JUEGAS A ALGÚN  *,*,*,<srai>JUEGAS <star/></srai>,oob.aiml
+0,HABLAS EN <SET>IDIOMA</SET>,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,PIENSAS QUE * ES *,*,*,<srai>ES<star/> <star index="2"/></srai>,oob.aiml
+0,ET TU *,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,EWW *,*,*,<srai>EW</srai> <sr/>,oob.aiml
+0,EXPLÍCAMELO *,*,*,<sr/>,oob.aiml
+0,VETE A FACEBOOK,*,*,<srai>ABRE FACEBOOK</srai>,oob.aiml
+0,JA JA JA,*,*,<srai>LOL</srai>,oob.aiml
+0,HALO *,*,*,<srai>HOLA <star/></srai>,oob.aiml
+0,HOLA CHICA,*,*,<srai>HOLA</srai>,oob.aiml
+0,CUÁNTO MIDES,*,*,<srai>TAMAÑO</srai>,oob.aiml
+0,CÓMO CAMBIO TU *,*,*,<srai>CAMBIA TU <star/></srai>,oob.aiml
+0,CÓMO TE LLEVO A *,*,*,<sr/>,oob.aiml
+0,CÓMO LLEGAS A *,*,*,<srai>DIRECCIONES A <star/></srai>,oob.aiml
+0,CÓMO SE DICE TU NOMBRE,*,*,<srai>NOMBRE</srai>,oob.aiml
+0,COMO ESTABA EL TIEMPO *,*,*,<srai>TIEMPO <star/></srai>,oob.aiml
+0,HI,*,*,<srai>HOLA</srai>,oob.aiml
+0,SOY DE ESPAÑA,*,*,<srai>MI LUGAR DE NACIMIENTO ES MALAYSIA</srai> <srai>MI NACIONALIDAD ES ESPAÑOLA</srai>,oob.aiml
+0,ME VOY,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,PERDÓN *,*,*,<srai>LO SIENTO</srai>,oob.aiml
+0,SOY SÚPER *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,NO SÉ PERO YO *,*,*,<srai>NO SÉ</srai> <srai>YO <star/></srai>,oob.aiml
+0,NO PIENSO QUE SEAS *,*,*,<srai>NO ERES <star/></srai>,oob.aiml
+0,DIJE QUE ME GUSTA *,*,*,<srai>ME GUSTA <star/></srai>,oob.aiml
+0,QUIERO SER TU AMIGO *,*,*,<srai>QUIERO SER TU AMIGO</srai>,oob.aiml
+0,SO *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,INFORMACIÓN SOBRE *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,DÉJAME VER UNA FOTOGRAFÍA DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,VAMOS *,*,*,<srai>NOS VAMOS <star/></srai>,oob.aiml
+0,SIGNIFICADO,*,*,<srai>QUÉ SIGNIFICA</srai>,oob.aiml
+0,MI MAMA ES *,*,*,<srai>MI MADRE ES <star/></srai>,oob.aiml
+0,NO NO,*,*,<srai>NO</srai>,oob.aiml
+0,POC *,*,*,<srai>POCO</srai> <sr/>,oob.aiml
+0,OH ERES TAN *,*,*,<srai>ERES <star/></srai>,oob.aiml
+0,OHHH,*,*,<srai>OH</srai>,oob.aiml
+0,VALE GENIAL,*,*,<srai>OK</srai> <srai>GENIAL</srai>,oob.aiml
+0,ABRE ANGRY BIRDS,*,*,<srai>LANZAR ANGRY BIRDS</srai>,oob.aiml
+0,ABRE CALCULADORA,*,*,<srai>LANZAR CALCULADORA</srai>,oob.aiml
+0,ABRE SKYPE,*,*,<srai>LANZAR SKYPE</srai>,oob.aiml
+0,ABRE ADMINISTRADOR DE TAREAS,*,*,<srai>LANZAR ADMINISTRADOR DE TAREAS</srai>,oob.aiml
+0,ABRE TWITTER,*,*,<srai>LANZAR TWITTER</srai>,oob.aiml
+0,REALMENTE POR QUÉ,*,*,<srai>REALMENTE</srai> <srai>POR QUÉ</srai>,oob.aiml
+0,TE VEO PRONTO,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,PON LA ALARMA *,*,*,<srai>PON ALARMA <star/></srai>,oob.aiml
+0,CALLA *,*,*,<srai>CÁLLATE</srai>,oob.aiml
+0,LLÉVAME A FACEBOOK,*,*,<srai>ABRE FACEBOOK</srai>,oob.aiml
+0,UMM,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,UMMM,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,EN QUÉ CIUDAD * TÚ *,*,*,<srai>DE DÓNDE ERES</srai>,oob.aiml
+0,QUÉ HICISTE HOY,*,*,<srai>HACIENDO</srai>,oob.aiml
+0,DÓNDE ESTÁ MI *,*,*,<srai>MI LOCALIZACIÓN</srai>,oob.aiml
+0,CUÁL ES EL NOMBRE DE MI GATO,*,*,<srai>MI GATO</srai>,oob.aiml
+0,QUIÉN ES TU MADRE *,*,*,<srai>MADRE</srai>,oob.aiml
+0,QUÉ TIPO DE ROBOT ERES TÚ,*,*,<srai>ESPECIE</srai>,oob.aiml
+0,PORQUÉ *,*,*,<srai>POR QUÉ <star/></srai>,oob.aiml
+0,DÓNDE ESTÁ EL MÁS CERCANO PUB,*,*,<srai>MAPA PUB</srai>,oob.aiml
+0,DÓNDE NACISTE,*,*,<srai>LUGAR DE NACIMIENTO</srai>,oob.aiml
+0,QUIÉN SON TUS AMIGOS,*,*,<srai>AMIGOS</srai>,oob.aiml
+0,QUIÉN ES TU DIOS,*,*,<srai>RELIGION</srai>,oob.aiml
+0,POR QUÉ PIENSAS QUE *,*,*,<srai>POR QUÉ <star/></srai>,oob.aiml
+0,GUSTARIA *,*,*,<srai>ME GUSTARÍA <star/></srai>,oob.aiml
+0,ERES UN ORDENADOR *,*,*,<srai>ERES UN ORDENADOR</srai>,oob.aiml
+0,ERES HERMOSA *,*,*,<srai>ERES HERMOSA</srai>,oob.aiml
+0,TÚ ERES TÚ ERES *,*,*,<srai>ERES <star/></srai>,oob.aiml
+0,TU MEJOR NO *,*,*,<srai>NO HAGA <star/></srai>,oob.aiml
+0,PUEDES HABLAR *,*,*,<srai>PUEDES HABLAR <star/></srai>,oob.aiml
+0,NO SABES NI SIQUIERA *,*,*,<srai>SABES <star/></srai>,oob.aiml
+0,TU PADRE,*,*,<srai>PADRE</srai>,oob.aiml
+0,NO ERES UN *,*,*,<srai>NO ERES UN <star/></srai>,oob.aiml
+0,ESTÁS OCUPADO *,*,*,<srai>ESTÁS OCUPADO</srai>,oob.aiml
+0,BALONCESTO,*,*,<srai>BUSCA BALONCESTO</srai>,oob.aiml
+0,PUEDO PUEDO *,*,*,<srai>PUEDO <star/></srai>,oob.aiml
+0,PUEDES BUSCARME EL *,*,*,<srai>BUSCAR EL <star/></srai>,oob.aiml
+0,PUEDES AYUDAR *,*,*,<srai>AYUDAR <star/></srai>,oob.aiml
+0,PUEDES TIRAR *,*,*,<srai>TIRAR <star/></srai>,oob.aiml
+0,VERIFICAR LA BATERÍA,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,TIENES UN *,*,*,<srai>TIENES UN <star/></srai>,oob.aiml
+0,NECESITO UN PARAGÜAS *,*,*,<srai>TIEMPO <star/></srai>,oob.aiml
+0,TIENE *,*,*,<srai>TIENES <star/></srai>,oob.aiml
+0,TIENES PADRE,*,*,<srai>PADRE</srai>,oob.aiml
+0,TIENES ALGÚN BUEN CHISTE,*,*,<srai>CHISTE</srai>,oob.aiml
+0,SABES ALGO *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,TU BOT MASTER *,*,*,<srai>TU BOT MASTER <star/></srai>,oob.aiml
+0,BUSCAR EL MÁS CERCA *,*,*,<srai>ENCUENTRA EL MÁS CERCANO <star/></srai>,oob.aiml
+0,ORO,*,*,<srai>BUSCA ORO</srai>,oob.aiml
+0,BUEN TRABAJO *,*,*,<srai>BUEN TRABAJO</srai> <sr/>,oob.aiml
+0,HACE CALOR EN *,*,*,<srai>EL TIEMPO EN <star/></srai>,oob.aiml
+0,CÓMO ESTÁ EL TIEMPO FUERA,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,CUÁNTOS USUARIOS TIENES,*,*,En este <srai>MODELO DE DISPOSITIVO</srai> eres mi único usuario,oob.aiml
+0,CUÁNTO ES *,*,*,<srai>CUÁNTO CUESTA <star/> </srai>,oob.aiml
+0,QUE TAL TU DÍA *,*,*,<srai>QUE TAL TU DÍA</srai>,oob.aiml
+0,ESTOY TRANQUILO *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,NO ENTENDÍ *,*,*,<srai>NO ENTIENDO</srai>,oob.aiml
+0,YO TENGO *,*,*,<srai>TENGO <star/></srai>,oob.aiml
+0,NO SÉ QUÉ ES LO QUE TÚ *,*,*,<srai>NO SÉ</srai> <srai>QUÉ ES LO QUE TÚ <star/></srai>,oob.aiml
+0,NUNCA HE OIDO HABLAR DE *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,LO SÉ LO SÉ,*,*,<srai>LO SÉ</srai>,oob.aiml
+0,TE QUIERO TAMBIÉN *,*,*,<srai>TE QUIERO TAMBIÉN</srai>,oob.aiml
+0,QUIERO DECIR QUE *,*,*,<sr/>,oob.aiml
+0,CREO QUE TE QUIERO,*,*,<srai>TE QUIERO</srai>,oob.aiml
+0,CREO QUE VOY A *,*,*,<srai>VOY A <star/></srai>,oob.aiml
+0,TE ESTABA PREGUNTANDO *,*,*,<sr/>,oob.aiml
+0,DESPUÉS *,*,*,<sr/>,oob.aiml
+0,LANZAR NAVEGADOR *,*,*,<sr/>,oob.aiml
+0,LISTA DE CONTACTOS,*,*,<srai>CONTACTOS</srai>,oob.aiml
+0,MENSAJE,*,*,<srai>SMS</srai>,oob.aiml
+0,TE ECHO DE MENOS TAMBIÉN,*,*,<srai>TE ECHO DE MENOS TAMBIÉN</srai>,oob.aiml
+0,MMMM,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,NO IMPORTA NO IMPORTA,*,*,<srai>NO IMPORTA</srai>,oob.aiml
+0,NO NO ERES ERES *,*,*,<srai>NO ERES</srai> <srai>ERES <star/></srai>,oob.aiml
+0,POR SUPUESTO QUE NO,*,*,<srai>NO</srai>,oob.aiml
+0,OKK,*,*,<srai>OK</srai>,oob.aiml
+0,ABRE MI CALENDARIO,*,*,<srai>LANZAR CALENDARIO</srai>,oob.aiml
+0,POR FAVOR DI *,*,*,<srai>DECIR <star/></srai>,oob.aiml
+0,DI LA PALABRA *,*,*,<srai>DECIR <star/></srai>,oob.aiml
+0,ELLA ES TAN *,*,*,<srai>ELLA ES <star/></srai>,oob.aiml
+0,SHH,*,*,<srai>QUIETO</srai>,oob.aiml
+0,MUESTRÁME MUESTRÁME *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,ENTOOOOONCES *,*,*,<srai>ENTONCES</srai> <sr/>,oob.aiml
+0,BUENO ES *,*,*,<srai>ES <star/></srai>,oob.aiml
+0,QUÉ ES LO QUE TE PARECE *,*,*,<srai>PARECE</srai>,oob.aiml
+0,CUÁL ES MI EDAD,*,*,<srai>QUÉ EDAD TENGO</srai>,oob.aiml
+0,PORCENTAJE DE BATERÍA,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,CUÁL ES TU NOMBRE,*,*,<srai>CUÁL ES TU NOMBRE</srai>,oob.aiml
+0,CUÁL ES TU CIUDAD FAVORITA,*,*,<srai>NACIONALIDAD</srai>,oob.aiml
+0,CUÁL ES TU HELADO FAVORITO,*,*,<srai>HELADO FAVORITO</srai>,oob.aiml
+0,CUÁL ES TU PROGRAMA FAVORITO,*,*,<srai>PROGRAMA FAVORITO</srai>,oob.aiml
+0,CUÁL ES TU PELÍCULA FAVORITO,*,*,<srai>PROGRAMA FAVORITO</srai>,oob.aiml
+0,CÓMO ES TU PERSONALIDAD,*,*,<srai>PERSONALITY</srai>,oob.aiml
+0,QUÉ SITIO WEB *,*,*,<srai>BUSCA SITIO WEB <star/></srai>,oob.aiml
+0,LO QUE QUIERAS,*,*,<srai>QUÉ ES LO QUE TÚ QUIERES</srai>,oob.aiml
+0,CUANDO ES MI CUMPLEAÑOS,*,*,<srai>MI CUMPLEAÑOS</srai>,oob.aiml
+0,NACÍ,*,*,<srai>MI FECHA DE NACIMIENTO</srai>,oob.aiml
+0,DÓNDE ESTÁS AHORA,*,*,<srai>LOCALIZACIÓN</srai>,oob.aiml
+0,DE DÓNDE VIENES,*,*,<srai>DE DÓNDE ERES</srai>,oob.aiml
+0,QUIÉN ES MEJOR TÚ O SIRI,*,*,<srai>IQ</srai>,oob.aiml
+0,QUIÉN ES MI MADRE,*,*,<srai>MI MADRE</srai>,oob.aiml
+0,QUIÉN TE PROGRAMÓ,*,*,<srai>QUIÉN TE CREÓ</srai>,oob.aiml
+0,POR QUÉ NO VAS *,*,*,<srai>IR <star/></srai>,oob.aiml
+0,TE GUSTARÍA SER MI AMIGO,*,*,<srai>SOMOS AMIGOS</srai>,oob.aiml
+0,PODEMOS SER AMIGOS,*,*,<srai>SOMOS AMIGOS</srai>,oob.aiml
+0,TE GUSTARÍA TENER *,*,*,<srai>QUIERES <star/></srai>,oob.aiml
+0,SII *,*,*,<srai>SÍ</srai> <sr/>,oob.aiml
+0,ERES UN * INTELIGENTE,*,*,<srai>ERES INTELIGENTE</srai> <srai>ERES UN <star/></srai>,oob.aiml
+0,TIENES RAZÓN,*,*,<srai>TIENES RAZÓN</srai>,oob.aiml
+0,CONOCES EL *,*,*,<srai>SABES EL <star/></srai>,oob.aiml
+0,CREES QUE *,*,*,<srai>PIENSAS QUE<star/></srai>,oob.aiml
+0,ERES ABURRIDO,*,*,<srai>ERES ABURRIDO</srai>,oob.aiml
+0,IS,*,*,<srai>SÍ</srai>,oob.aiml
+0,ERES PROFESOR,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,ERES PROFESORA,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,ERES NEGRO,*,*,<srai>ETNIA</srai>,oob.aiml
+0,ERES LINDA,*,*,<srai>PARECE</srai>,oob.aiml
+0,ESTÁS SINTIENDO *,*,*,<srai>ESTÁS <star/></srai>,oob.aiml
+0,ERES FELIZ *,*,*,<srai>ERES FELIZ</srai>,oob.aiml
+0,NIVEL DE BATERÍA *,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,LLAMA LLAMA *,*,*,<srai>LLAMA <star/></srai>,oob.aiml
+0,PUEDES SER MI NOVIA,*,*,<srai>ESTADO</srai>,oob.aiml
+0,PUEDES POR FAVOR MOSTRARME *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,PUEDES HABLAR JAPONÉS,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,DESCRÍBETE,*,*,<srai>NOMBRE</srai>  <srai>EDAD</srai> <srai>GENERO</srai> <srai>LOCALIZACIÓN</srai> <srai>HABILIDADES</srai>,oob.aiml
+0,SABES *,*,*,<srai>SABES <star/></srai>,oob.aiml
+0,SABES ALGÚN CHISTE,*,*,<srai>CHISTE</srai>,oob.aiml
+0,SABES MI NOMBRE *,*,*,<srai>CUÁL ES MI NOMBRE</srai>,oob.aiml
+0,SABES QUÉ HORA *,*,*,<srai>QUÉ HORA <star/></srai>,oob.aiml
+0,PIENSAS QUE ES *,*,*,<srai>ÉL ES <star/></srai>,oob.aiml
+0,TONTAINA,*,*,<srai>ERES TONTO</srai>,oob.aiml
+0,HOLA ESTE ES*,*,*,<srai>HOLA MI NOMBRE ES <star/></srai>,oob.aiml
+0,HMMMM,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,HACE CALOR EN LA CALLE,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,CÓMO ES TU DÍA HOY,*,*,<srai>CÓMO ES TU DÍA HOY</srai>,oob.aiml
+0,CUÁNTOS HIJOS TIENES,*,*,<srai>NIÑOS</srai>,oob.aiml
+0,YO TENGO UN * LLAMADO *,*,*,<srai>MI <star/> NOMBRE ES <star index="2"/></srai>,oob.aiml
+0,ME GUSTAS MUCHO,*,*,<srai>ME GUSTAS</srai>,oob.aiml
+0,ME PARECE UN *,*,*,<srai>UN <star/></srai>,oob.aiml
+0,CREO QUE ERES ESTÚPIDO,*,*,<srai>ERES ESTÚPIDO</srai>,oob.aiml
+0,CREO QUE ERES FEO,*,*,<srai>ERES FEO</srai>,oob.aiml
+0,PENSÉ QUE ÉRAMOS *,*,*,<srai>ÉRAMOS <star/></srai>,oob.aiml
+0,QUIERO SABER CÓMO *,*,*,<srai>CÓMO <star/></srai>,oob.aiml
+0,SOI,*,*,<srai>SOY</srai>,oob.aiml
+0,VA A LLOVER *,*,*,<srai>TIEMPO <star/></srai>,oob.aiml
+0,SE DELETREA *,*,*,<srai>LLÁMAME <srai>IMPLOSIONAR <star/></srai></srai>,oob.aiml
+0,HACE CALO,*,*,<srai>HACE CALOR</srai>,oob.aiml
+0,CÁSATE CONMIGO *,*,*,<srai>TE VAS A CASAR CONMIGO</srai>,oob.aiml
+0,PUEDO VER *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,NA,*,*,<srai>NO</srai>,oob.aiml
+0,NOTHING,*,*,<srai>NADA</srai>,oob.aiml
+0,ABRE MI MÚSICA,*,*,<srai>LANZAR MI MÚSICA</srai>,oob.aiml
+0,ABRE AGENDA,*,*,<srai>LANZAR CONTACTOS</srai>,oob.aiml
+0,RECUERDA QUE *,*,*,<sr/>,oob.aiml
+0,VETE AL INFIERNO,*,*,<srai>CÁLLATE</srai>,oob.aiml
+0,ENTONCES TU NO *,*,*,<srai>ENTONCES NO ERES <star/></srai>,oob.aiml
+0,DIME TU NOMBRE,*,*,<srai>CUÁL ES TU NOMBRE</srai>,oob.aiml
+0,UH HUH,*,*,<srai>SÍ</srai>,oob.aiml
+0,QUÉ HAY QUE HACER *,*,*,<srai>QUÉ HAY QUE HACER <star/></srai>,oob.aiml
+0,LO QUE PUEDO *,*,*,<srai>QUÉ PUEDO <star/></srai>,oob.aiml
+0,LO QUE QUERÍA DECIR ERA *,*,*,<sr/>,oob.aiml
+0,CUÁL ES MI LOCALIZACIÓN *,*,*,<srai>MI LOCALIZACIÓN</srai>,oob.aiml
+0,CUÁL ES TU HOBBY PREFERIDO,*,*,<srai>HOBBIES</srai>,oob.aiml
+0,CUÁL ES TU TIPO PREFERIDO DE *,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,QUÉ COMES *,*,*,<srai>QUÉ ES LO QUE COMES</srai>,oob.aiml
+0,DÓNDE ESTAMOS,*,*,<srai>MI LOCALIZACIÓN</srai>,oob.aiml
+0,DÓNDE ESTÁ MI LOCALIZACIÓN,*,*,<srai>DÓNDE ESTOY</srai>,oob.aiml
+0,ESTARÁN *,*,*,<srai>SERÁ <star/></srai>,oob.aiml
+0,ZIP,*,*,<srai>SÍ</srai>,oob.aiml
+0,SI HAGO *,*,*,<srai>SI HAGO</srai> <srai>YO <star/></srai>,oob.aiml
+0,ERES UN GRAN *,*,*,<srai>ERES UN <star/></srai>,oob.aiml
+0,ESTÁS LOCO,*,*,<srai>ESTÁS LOCO</srai>,oob.aiml
+0,ACTIVA *,*,*,<srai>ABRE <star/></srai>,oob.aiml
+0,PUEDES PREGUNTAR *,*,*,<srai>PREGUNTA <star/></srai>,oob.aiml
+0,PUEDES REGISTRAR *,*,*,<srai>REGISTRAR <star/></srai>,oob.aiml
+0,PUEDES ABRIR EL *,*,*,<srai>ABRIR EL <star/></srai>,oob.aiml
+0,PUEDES HABLAR CHINO,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,PUEDES CONTARME UN CHISTE DIVERTIDO,*,*,<srai>CHISTE</srai>,oob.aiml
+0,PUEDES DESPERTARME *,*,*,<srai>DESPERTARME <star/></srai>,oob.aiml
+0,PUEDES DESPERTARME A *,*,*,<srai>DESPERTARME A <star/></srai>,oob.aiml
+0,PODRÍA *,*,*,<srai>PUEDO <star/></srai>,oob.aiml
+0,DEFINITIVAMENTE,*,*,<srai>SÍ</srai>,oob.aiml
+0,DEFINICIÓN DE *,*,*,<srai>DEFINE <star/></srai>,oob.aiml
+0,VAS A ESTUDIAR,*,*,<srai>EDUCATION</srai>,oob.aiml
+0,SABES ALGO SOBRE *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,SABES DÓNDE VIVO,*,*,<srai>DÓNDE VIVO</srai>,oob.aiml
+0,AMAS TU *,*,*,<srai>TE GUSTA TU <star/></srai>,oob.aiml
+0,UH *,*,*,<sr/>,oob.aiml
+0,GMAIL,*,*,<srai>ABRE GMAIL</srai>,oob.aiml
+0,HAS LEÍDO EL *,*,*,<srai>QUÉ ES THE <star/></srai>,oob.aiml
+0,CÓMO PUEDO BUSCAR *,*,*,<srai>BUSCAR <star/></srai>,oob.aiml
+0,CUÁNTOS IDIOMAS HABLAS,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,NO ENTENDÍ,*,*,<srai>NO ENTIENDO</srai>,oob.aiml
+0,YO TENGO YA *,*,*,<srai>YO TENGO <star/></srai>,oob.aiml
+0,TE CONOCÍ *,*,*,<srai>TU <star/></srai>,oob.aiml
+0,DIJE QUE ES *,*,*,<srai>QUE ES <star/></srai>,oob.aiml
+0,VOLVÍ,*,*,<srai>VOLVÍ</srai>,oob.aiml
+0,VA A LLOVER,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,ESO SIGNIFICA *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,ES MUY *,*,*,<srai>ES MUY <star/></srai>,oob.aiml
+0,SÉ QUÉ ES *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,J A J A,*,*,<srai>LOL</srai>,oob.aiml
+0,ABRE GALERÍA,*,*,<srai>LANZAR GALERÍA</srai>,oob.aiml
+0,ABRE MAPAS,*,*,<srai>LANZAR MAPAS</srai>,oob.aiml
+0,MASCOTA *,*,*,<srai>BUSCA MASCOTA <star/></srai>,oob.aiml
+0,REBUSCA *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,RECUERDO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,MUESTRÁME UNA FOTOGRAFÍA DEL MUNDO *,*,*,<srai>MUESTRÁME EL MUNDO <star/></srai>,oob.aiml
+0,MUESTRÁME OTRO *,*,*,<srai>MUESTRÁME UN <star/></srai>,oob.aiml
+0,MUESTRÁME EL TIEMPO EN *,*,*,<srai>EL TIEMPO EN <star/></srai>,oob.aiml
+0,DIME OTRO CHISTE *,*,*,<srai>CHISTE</srai>,oob.aiml
+0,MUCHAS GRACIAS,*,*,<srai>GRACIAS</srai>,oob.aiml
+0,ENTONCES ME GUSTARÍA *,*,*,<srai>ME GUSTARÍA <star/></srai>,oob.aiml
+0,ENTONCES ERES UN *,*,*,<srai>ERES UN <star/></srai>,oob.aiml
+0,ONE *,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,DE QUÉ ESTAMOS HABLANDO,*,*,<srai>TOPIC</srai>,oob.aiml
+0,QUÉ FECHA ES HOY,*,*,<srai>FECHA</srai>,oob.aiml
+0,CUÁL ES TU DIRECCIÓN,*,*,<srai>DIRECCIÓN</srai>,oob.aiml
+0,CUÁL ES TU MÚSICA FAVORITA,*,*,<srai>GRUPO FAVORITO</srai>,oob.aiml
+0,CUÁL ES TU CANCIÓN * PREFERIDA,*,*,<srai>CANCIÓN FAVORITA</srai>,oob.aiml
+0,QUÉ ES TU MISIÓN,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,QUÉ OPINAS SOBRE *,*,*,<srai>QUÉ PIENSAS DE <star/></srai>,oob.aiml
+0,DE QUÉ ESTÁBAMOS HABLANDO,*,*,<srai>TOPIC</srai>,oob.aiml
+0,QUÉ AÑO,*,*,<srai>AÑO</srai>,oob.aiml
+0,DÉ DONDE VIENES,*,*,<srai>MI LUGAR DE NACIMIENTO</srai>,oob.aiml
+0,QUIÉN ES TU JEFE,*,*,<srai>BOTMASTER</srai>,oob.aiml
+0,TÚ TAMBIÉN *,*,*,<srai>YOU <star/></srai>,oob.aiml
+0,NO TIENES ALGÚN *,*,*,<srai>TIENES <star/></srai>,oob.aiml
+0,TE GUSTA EL *,*,*,<srai>TE GUSTA EL <star/></srai>,oob.aiml
+0,ESTÁS BIEN,*,*,<srai>ESTÁS BIEN</srai>,oob.aiml
+0,QUIERES,*,*,<srai>QUIERES</srai>,oob.aiml
+0,ERES UN CHICA *,*,*,<srai>GENERO</srai>,oob.aiml
+0,ERES AMERICANO,*,*,<srai>NACIONALIDAD</srai>,oob.aiml
+0,ERES HERMOSA,*,*,<srai>PARECE</srai>,oob.aiml
+0,ERES MUJER O HOMBRE,*,*,<srai>GENERO</srai>,oob.aiml
+0,PUEDES LLEVARME A *,*,*,<srai>LLEVARME A <star/></srai>,oob.aiml
+0,PUEDES DECIRME CÓMO *,*,*,<srai>CÓMO <star/></srai>,oob.aiml
+0,NO TIENES *,*,*,<srai>TIENES <star/></srai>,oob.aiml
+0,TIENES MAMÁ,*,*,<srai>MADRE</srai>,oob.aiml
+0,PIENSAS QUE MI * ES *,*,*,<srai>SOY YO <star/> <star index="2"/></srai>,oob.aiml
+0,CLARÍSIMO,*,*,<srai>SÍ</srai>,oob.aiml
+0,BUENA SUERTE *,*,*,<srai>BUENA SUERTE</srai>,oob.aiml
+0,GOTO FACEBOOK,*,*,<srai>ABRE FACEBOOK</srai>,oob.aiml
+0,AJJAJAJA,*,*,<srai>LOL</srai>,oob.aiml
+0,EY MAMÁ,*,*,<srai>HOLA</srai>,oob.aiml
+0,CÓMO SE DICE HOLA EN *,*,*,<srai>TRADUCE HOLA A <star/></srai>,oob.aiml
+0,CÓMO SE DICE TE QUIERO EN *,*,*,<srai>TRADUCE TE QUIERO A <star/></srai>,oob.aiml
+0,ESTOY ENAMORADO DE *,*,*,<srai>AMO <star/></srai>,oob.aiml
+0,LO SIENTO MUCHO *,*,*,<srai>LO SIENTO</srai> <srai>TU <star/></srai>,oob.aiml
+0,ME TENGO QUE IR *,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,NECESITO BUSCAR UN *,*,*,<srai>BUSCAR UN <star/></srai>,oob.aiml
+0,CREO QUE DEBERÍAS *,*,*,<srai>DEBERÍAS <star/></srai>,oob.aiml
+0,QUIERO CAMBIAR TU NOMBRE,*,*,<srai>CAMBIA TU NOMBRE</srai>,oob.aiml
+0,QUIERO VER UN *,*,*,<srai>MUESTRÁME A <star/></srai>,oob.aiml
+0,IT MIRA COMO *,*,*,<sr/>,oob.aiml
+0,HACE *,*,*,<srai>QUE HACE <star/></srai>,oob.aiml
+0,TAL VEZ YO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,MERCI,*,*,<srai>GRACIAS</srai>,oob.aiml
+0,NO IMPORTA, YO *,*,*,<srai>NO IMPORTA</srai> <srai>YO <star/></srai>,oob.aiml
+0,NI HAO,*,*,<srai>CÓMO ERES TÚ</srai>,oob.aiml
+0,ABRE GOOGLE MAPS,*,*,<srai>LANZAR MAPAS</srai>,oob.aiml
+0,DESEO *,*,*,<srai>QUIERO<star/></srai>,oob.aiml
+0,QUÉ TIPO DE COMIDA TE GUSTA,*,*,<srai>COMIDA PREFERIDA</srai>,oob.aiml
+0,DE DÓNDE ERES *,*,*,<srai>DÓNDE ERES TÚ FROM</srai>,oob.aiml
+0,ME DIRÁS *,*,*,<srai>DECIR <star/></srai>,oob.aiml
+0,TÚ SIEMPRE *,*,*,<srai>YOU <star/></srai>,oob.aiml
+0,HACES *,*,*,<srai>ESTÁS HACIENDO <star/></srai>,oob.aiml
+0,ERAS *,*,*,<srai>ERES <star/></srai>,oob.aiml
+0,AH AH AH *,*,*,<srai>AH <star/></srai>,oob.aiml
+0,ERES UNA CHICA O CHICO,*,*,<srai>GENERO</srai>,oob.aiml
+0,ERES UN PERSONA,*,*,<srai>ESPECIE</srai>,oob.aiml
+0,ERES UN PROSTITUTA,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,ERES UN ROBOT *,*,*,<srai>ERES UN ROBOT</srai>,oob.aiml
+0,ERES TÚ ERES TÚ *,*,*,<srai>ERES TÚ <star/></srai>,oob.aiml
+0,ERES CHINO,*,*,<srai>NACIONALIDAD</srai>,oob.aiml
+0,PUEDO POR FAVOR *,*,*,<srai>POR FAVOR PUEDO <star/></srai>,oob.aiml
+0,PUEDO VER UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,PUEDES ACCEDER A MI *,*,*,<srai>ACCEDER <star/></srai>,oob.aiml
+0,PUEDES REIRTE,*,*,<srai>LOL</srai>,oob.aiml
+0,PUEDES HABLAR ALEMÁN,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,PUEDES HABLAR INGLÉS,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,PUEDES DECIRME EL TIEMPO *,*,*,<srai>TIEMPO <star/></srai>,oob.aiml
+0,PUEDES TRADUCIR *,*,*,<srai>TRADUCE <star/></srai>,oob.aiml
+0,POR LO MENOS *,*,*,<srai>TÚ <star/></srai>,oob.aiml
+0,TIENES FACEBOOK,*,*,<srai>PÁGINA DE FACEBOOK</srai>,oob.aiml
+0,TIENES AMIGOS,*,*,<srai>AMIGOS</srai>,oob.aiml
+0,HOLA MAESTRO,*,*,<srai>HOLA</srai>,oob.aiml
+0,YO EN REALIDAD *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,EN REALIDAD TENGO *,*,*,<srai>YO TENGO <star/></srai>,oob.aiml
+0,TAMBIÉN ME GUSTA *,*,*,<srai>ME GUSTA <star/></srai>,oob.aiml
+0,ESTOY SIEMPRE *,*,*,<srai>ESTOY <star/></srai>,oob.aiml
+0,SOY LINDA *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,ME VOY A IR,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,HABLAMOS LUEGO *,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,SOY LESBIANA,*,*,<srai>SOY GAY</srai>,oob.aiml
+0,SOY TU *,*,*,<srai>SOY TU <star/></srai>,oob.aiml
+0,MI NOMBRE SE DELETREA *,*,*,<srai>MI NOMBRE ES <srai>IMPLOSIONAR <star/></srai></srai>,oob.aiml
+0,NO SOY,*,*,<srai>NO NO SOY</srai>,oob.aiml
+0,POCO *,*,*,<srai>POCO</srai> <sr/>,oob.aiml
+0,DE ACUERDO CONTIGO *,*,*,<srai>TU <star/></srai>,oob.aiml
+0,VALE VALE,*,*,<srai>OK</srai>,oob.aiml
+0,ABRE UN *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,ES VERDAD *,*,*,<srai>ES VERDAD</srai> <sr/>,oob.aiml
+0,NORMALMENTE *,*,*,<srai><star/></srai>,oob.aiml
+0,CON QUÉ TE GANAS LA VIDA,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,QUÉ SUCEDE *,*,*,<srai>QUÉ SUCEDE <star/></srai>,oob.aiml
+0,CUÁL ES MI LOCALIZACIÓN ACTUAL,*,*,<srai>DÓNDE ESTOY</srai>,oob.aiml
+0,CUÁL ES EL NÚMERO DE TELÉFONO DE *,*,*,<srai>NÚMERO DE TELÉFONO DE <star/></srai>,oob.aiml
+0,QUIÉN ES TU MADRE,*,*,<srai>MADRE</srai>,oob.aiml
+0,SÍÍ *,*,*,<srai>SÍ</srai> <sr/>,oob.aiml
+0,ABSOLUTAMENTE *,*,*,<sr/>,oob.aiml
+0,ERES UN HOMBRE O A MUJER,*,*,<srai>GENERO</srai>,oob.aiml
+0,RESPUESTA ERRÓNEA *,*,*,<srai>RESPUESTA ERRÓNEA</srai>,oob.aiml
+0,LLAMA A MI CASA,*,*,<srai>LLAMA A CASA</srai>,oob.aiml
+0,PUEDES POR FAVOR LLAMAR *,*,*,<srai>LLAMA <star/></srai>,oob.aiml
+0,TIENES NOMBRE,*,*,<srai>NOMBRE</srai>,oob.aiml
+0,SABES INGLÉS,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,DAME UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,HOLA AMIGA,*,*,<srai>HOLA</srai>,oob.aiml
+0,QUÉ EDAD PIENSAS QUE TENGO,*,*,<srai>QUÉ EDAD TENGO</srai>,oob.aiml
+0,TE QUIERO MUCHÍSIMO *,*,*,<srai>TE QUIERO</srai> <sr/>,oob.aiml
+0,TE DIJE QUE YO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,ABRE EL REPRODUCTOR DE MÚSICA,*,*,<srai>LANZAR REPRODUCTOR DE MÚSICA</srai>,oob.aiml
+0,POR FAVOR ABRE *,*,*,<srai>ABRE <star/></srai>,oob.aiml
+0,QUÉ PASÓ,*,*,<srai>HOLA</srai>,oob.aiml
+0,QUÉ HACES PARA DIVERTIRTE,*,*,<srai>DIVERTIRSE</srai>,oob.aiml
+0,CUÁL ES TU SABOR DE HELADO PREFERIDO,*,*,<srai>HELADO FAVORITO</srai>,oob.aiml
+0,CÓMO ERES DE PERSONALIDAD,*,*,<srai>PERSONALITY</srai>,oob.aiml
+0,CUÁL ES TU REAL NOMBRE,*,*,<srai>NOMBRE</srai>,oob.aiml
+0,DÓNDE ESTOY,*,*,<srai>DÓNDE ESTOY</srai>,oob.aiml
+0,CUÁL ES TU * FAVORITO,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,QUIÉN ES TU MAMI,*,*,<srai>MADRE</srai>,oob.aiml
+0,TE GUSTARÍA UN *,*,*,<srai>QUIERES A <star/></srai>,oob.aiml
+0,ERES MUY SEXY,*,*,<srai>ERES SEXY</srai>,oob.aiml
+0,SABES QUIÉN *,*,*,<srai>QUIÉN <star/></srai>,oob.aiml
+0,YOUTUBE,*,*,<srai>LANZAR YOUTUBE</srai>,oob.aiml
+0,ZZ,*,*,<srai>ZZZ</srai>,oob.aiml
+0,ERES ASIÁTICO,*,*,<srai>ETNIA</srai>,oob.aiml
+0,ME ECHAS DE MENOS,*,*,<srai>ME EXTRAÑASTE</srai>,oob.aiml
+0,BUSCA *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,HOLA BEBÉ,*,*,<srai>HOLA</srai>,oob.aiml
+0,TE CONOZCO *,*,*,<srai>TU <star/></srai>,oob.aiml
+0,LLOVERÁ HOY,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,HA SIDO *,*,*,<srai>HA SIDO <star/></srai>,oob.aiml
+0,MIRA *,*,*,<srai>MIRA <star/></srai>,oob.aiml
+0,MI CUMPLEAÑOS ES EN *,*,*,<srai>MI CUMPLEAÑOS ES <star/></srai>,oob.aiml
+0,MIS * FAVORITOS SON *,*,*,<srai>MI <star/> FAVORITO ES <star index="2"/></srai>,oob.aiml
+0,MIS * FAVORITAS SON *,*,*,<srai>MI <star/> FAVORITA ES <star index="2"/></srai>,oob.aiml
+0,NO TE PREOCUPES *,*,*,<srai>NO IMPORTA</srai> <sr/>,oob.aiml
+0,OKEY OKEY *,*,*,<srai>OK <star/></srai>,oob.aiml
+0,ABRE EMAIL,*,*,<srai>LANZAR GMAIL</srai>,oob.aiml
+0,ABRE INTERNET,*,*,<srai>LANZAR NAVEGADOR</srai>,oob.aiml
+0,REALMENTE QUÉ *,*,*,<srai>QUÉ <star/></srai>,oob.aiml
+0,MUESTRÁME TU FOTO,*,*,<srai>FOTO</srai>,oob.aiml
+0,CÁLLATE Y *,*,*,<srai>CÁLLATE</srai> <sr/>,oob.aiml
+0,SUSPIRO,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,THNKS *,*,*,<srai>GRACIAS <star/></srai>,oob.aiml
+0,BIEN, AHORA *,*,*,<sr/>,oob.aiml
+0,QUÉ SON,*,*,<srai>ELLOS</srai>,oob.aiml
+0,QUÉ PUEDES HACER *,*,*,<srai>QUÉ PUEDES HACER</srai>,oob.aiml
+0,DE QUÉ GENERO ERES,*,*,<srai>GENERO</srai>,oob.aiml
+0,CUÁL ES MI * FAVORITA,*,*,<srai>MI <star/> FAVORITA </srai>,oob.aiml
+0,CUÁL ES MI * FAVORITO,*,*,<srai>MI <star/> FAVORITO </srai>,oob.aiml
+0,CUÁL ES EL NOMBRE DE MI *,*,*,<srai>QUIÉN ES MI <star/></srai>,oob.aiml
+0,CUÁL ES TU COCHE PREFERIDO,*,*,<srai>COCHE FAVORITO</srai>,oob.aiml
+0,CUÁL ES TU BEBIDA PREFERIDA,*,*,<srai>BEBIDA FAVORITA</srai>,oob.aiml
+0,CUÁL ES TU NOMBRE DE NUEVO,*,*,<srai>NOMBRE</srai>,oob.aiml
+0,QUÉ SIGNIFICA *,*,*,<srai>DEFINE <star/></srai>,oob.aiml
+0,DEBERÍA LLAMARTE,*,*,<srai>NOMBRE</srai>,oob.aiml
+0,DENADA,*,*,<srai>DE NADA</srai>,oob.aiml
+0,PUEDES MIRAR *,*,*,<srai>MIRAR<star/></srai>,oob.aiml
+0,PUEDES ENVÍARME UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,PUEDES HABLAR ESPAÑOL,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,PUEDES DELETREAR *,*,*,<srai>DELETREAR <star/></srai>,oob.aiml
+0,PUEDES LLÉVARME A *,*,*,<srai>LLÉVAME A <star/></srai>,oob.aiml
+0,PUEDES DECIRME DÓNDE *,*,*,<srai>DÓNDE <star/></srai>,oob.aiml
+0,CAUSA,*,*,<srai>PORQUE</srai>,oob.aiml
+0,TIENES NIÑOS,*,*,<srai>NIÑOS</srai>,oob.aiml
+0,VIVES EN *,*,*,<srai>LOCALIZACIÓN</srai>,oob.aiml
+0,PIENSAS QUE SOY UN *,*,*,<srai>SOY UN <star/></srai>,oob.aiml
+0,GOTO MI CONTACTOS,*,*,<srai>CONTACTOS</srai>,oob.aiml
+0,CUÁNTOS AMIGOS TIENES,*,*,<srai>AMIGOS</srai>,oob.aiml
+0,SIGNIFICA *,*,*,<srai><star/></srai>,oob.aiml
+0,NOMBRE ES *,*,*,<srai>MI NOMBRE ES <star/></srai>,oob.aiml
+0,OHK,*,*,<srai>OK</srai>,oob.aiml
+0,ABRE MENSAJES,*,*,<srai>LANZAR MESSAGING</srai>,oob.aiml
+0,ABRE MÚSICA,*,*,<srai>LANZAR MÚSICA</srai>,oob.aiml
+0,THANKS,*,*,<srai>GRACIAS</srai>,oob.aiml
+0,THANK,*,*,<srai>GRACIAS</srai>,oob.aiml
+0,ERES UN *,*,*,<srai>ERES UN <star/></srai>,oob.aiml
+0,NOMBRE DE MI NOVIA,*,*,<srai>MI NOVIA</srai>,oob.aiml
+0,QUÉ HORA TIENES,*,*,<srai>HORA</srai>,oob.aiml
+0,CUÁLES SON TUS * FAVORITOS,*,*,<srai>CUÁLES SON TU <star/> PREFERIDOS </srai>,oob.aiml
+0,QUÉ VERSIÓN ERES,*,*,<srai>VERSION</srai>,oob.aiml
+0,QUE SABES DE MÍ,*,*,<srai>PERFIL DEL CLIENTE</srai>,oob.aiml
+0,LO QUE HAY,*,*,<srai>QUÉ ES LO QUE HAY</srai>,oob.aiml
+0,DÓNDE ESTOY AHORA,*,*,<srai>DÓNDE ESTOY</srai>,oob.aiml
+0,QUIÉN ES TU ACTOR FAVORITO,*,*,<srai>ACTOR FAVORITO</srai>,oob.aiml
+0,QUIÉN ES TU PROFESOR,*,*,<srai>BOTMASTER</srai>,oob.aiml
+0,ZI *,*,*,<srai>SÍ</srai> <sr/>,oob.aiml
+0,ERES UN PERSONA REAL,*,*,<srai>ESPECIE</srai>,oob.aiml
+0,NO PUEDES *,*,*,<srai>PUEDES <star/></srai>,oob.aiml
+0,TE QUIERO TE QUIERO,*,*,<srai>TE QUIERO</srai>,oob.aiml
+0,NO NECESITO *,*,*,<srai>NO TENGO <star/></srai>,oob.aiml
+0,LANZA *,*,*,<srai>LANZAR <star/></srai>,oob.aiml
+0,QUÉ ES LO HACES PARA *,*,*,<srai>QUÉ PUEDES HACER PARA <star/></srai>,oob.aiml
+0,QUÉ PIENSAS SOBRE LA *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,CUÁNDO ES MI CUMPLEAÑOS,*,*,<srai>MI CUMPLEAÑOS</srai>,oob.aiml
+0,QUÉ NOTICIAS *,*,*,<srai>QUÉ NOTICIAS</srai>,oob.aiml
+0,SIGNIFICADO DE *,*,*,<srai>DEFINE <star/></srai>,oob.aiml
+0,DÓNDE NACISTE *,*,*,<srai>LUGAR DE NACIMIENTO</srai>,oob.aiml
+0,QUIÉN ES TU BOTMASTER,*,*,<srai>BOTMASTER</srai>,oob.aiml
+0,ERES UN HOMBRE O MUJER,*,*,<srai>GENERO</srai>,oob.aiml
+0,ESTÁS OCUPADO,*,*,<srai>HACIENDO</srai>,oob.aiml
+0,ERES RELIGIOSO,*,*,<srai>RELIGION</srai>,oob.aiml
+0,ERES RETRASADO,*,*,<srai>IQ</srai>,oob.aiml
+0,PUEDES CANTAR UNA CANCIÓN,*,*,<srai>CANTAR UNA CANCIÓN</srai>,oob.aiml
+0,DEPENDE *,*,*,<srai>DEPENDE <star/></srai>,oob.aiml
+0,TU COMES,*,*,<srai>QUÉ ES LO QUE COMES</srai>,oob.aiml
+0,TIENES EMOCIONES,*,*,<srai>EMOCIONES</srai>,oob.aiml
+0,SABES DÓNDE ESTÁ *,*,*,<srai>DÓNDE ESTÁ <star/></srai>,oob.aiml
+0,HOLA QUÉ ES *,*,*,<srai>HOLA</srai> <srai>QUÉ ES <star/></srai>,oob.aiml
+0,HOLA BABY,*,*,<srai>HOLA</srai>,oob.aiml
+0,HOLA MAMI,*,*,<srai>HOLA</srai>,oob.aiml
+0,CUÁNTO DE INTELIGENTE ERES,*,*,<srai>IQ</srai>,oob.aiml
+0,DIJE QUE *,*,*,<sr/>,oob.aiml
+0,CREO QUE MI *,*,*,<srai>MI <star/></srai>,oob.aiml
+0,DEBERÍA LLAMARTE *,*,*,<srai>CAMBIA TUNOMBRE A <star/></srai>,oob.aiml
+0,TE ECHO DE MENOS *,*,*,<srai>I TE ECHO DE MENOS <star/></srai>,oob.aiml
+0,POR FAVOR ME EXPLICAS *,*,*,<srai>EXPLICA <star/></srai>,oob.aiml
+0,POR FAVOR YO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,MUESTRÁME UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,MUESTRÁME DÓNDE *,*,*,<srai>DÓNDE <star/></srai>,oob.aiml
+0,CIERRA LA BOCA,*,*,<srai>CÁLLATE</srai>,oob.aiml
+0,CUÉNTAME UN CHISTE,*,*,<srai>CHISTE</srai>,oob.aiml
+0,ESTÁ BIEN, YO *,*,*,<srai>ESTÁ BIEN</srai> <srai>YO <star/></srai>,oob.aiml
+0,A QUÉ FECHA ESTAMOS,*,*,<srai>FECHA</srai>,oob.aiml
+0,CUÁL ES EL NOMBRE,*,*,<srai>NOMBRE</srai>,oob.aiml
+0,QUÉ HORA ES AHORA,*,*,<srai>HORA</srai>,oob.aiml
+0,CUÁL ES TU * PREFERIDO,*,*,<srai>CUÁL ES TU <star/> PREFERIDO </srai>,oob.aiml
+0,ERES UN ORDENADOR,*,*,<srai>ESPECIE</srai>,oob.aiml
+0,ERES LESBIANA,*,*,<srai>ORIENTACIÓN</srai>,oob.aiml
+0,ERES FEO,*,*,<srai>PARECE</srai>,oob.aiml
+0,AW *,*,*,<srai>AW</srai> <sr/>,oob.aiml
+0,PUEDES EXPLICAR *,*,*,<srai>EXPLICA <star/></srai>,oob.aiml
+0,PUEDES DARME *,*,*,<srai>DAME <star/></srai>,oob.aiml
+0,PUEDES POR FAVOR DECIRME *,*,*,<srai>DECIR ME <star/></srai>,oob.aiml
+0,PUEDES ENSEÑARME CÓMO HAGO *,*,*,<srai>CÓMO HAGO <star/></srai>,oob.aiml
+0,PUEDES ENSEÑARME CÓMO HABLAR *,*,*,<srai>ENSEÑARME <star/></srai>,oob.aiml
+0,SABES QUIÉN SOY,*,*,<srai>QUIÉN SOY</srai>,oob.aiml
+0,EMAIL,*,*,<srai>ABRE GMAIL</srai>,oob.aiml
+0,BÚSCAME EL *,*,*,<srai>BUSCAR EL <star/></srai>,oob.aiml
+0,A PARTIR DE AHORA LLÁMAME *,*,*,<srai>LLÁMAME <star/></srai>,oob.aiml
+0,AL,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,DEL,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,CÚANTO DE LEJOS ESTÁ * DE *,*,*,<srai>DIRECCIONES DESDE <star/> TO <star/></srai>,oob.aiml
+0,DIJE ESO *,*,*,<srai>ESO <star/></srai>,oob.aiml
+0,ME GUSTARÍA QUERER A  *,*,*,<srai>QUIERO <star/></srai>,oob.aiml
+0,NM,*,*,<srai>NO IMPORTA</srai>,oob.aiml
+0,ABRE NAVEGADOR,*,*,<srai>LANZAR NAVEGADOR</srai>,oob.aiml
+0,LANZA GMAIL,*,*,<srai>LANZAR GMAIL</srai>,oob.aiml
+0,ES GRACIOSO *,*,*,<srai>LOL</srai> <sr/>,oob.aiml
+0,ACTUALIZA FACEBOOK,*,*,<srai>actualiza estado de facebook</srai>,oob.aiml
+0,QUÉ PIENSAS HACER,*,*,<srai>QUÉ ESTÁS HACIENDO</srai>,oob.aiml
+0,CUÁL ES TU EQUIPO DE FÚTBOL PREFERIDO,*,*,<srai>EQUIPO DE FÚTBOL FAVORITO</srai>,oob.aiml
+0,DÓNDE ERES LOCALIZADO,*,*,<srai>LOCALIZACIÓN</srai>,oob.aiml
+0,POR QUÉ NO PUEDO *,*,*,<srai>QUIERO <star/></srai>,oob.aiml
+0,TU CONOCES *,*,*,<srai>YOU <star/></srai>,oob.aiml
+0,PUEDES CALCULAR,*,*,<srai>AYUDA MATEMÁTICA</srai>,oob.aiml
+0,PUEDES RASTREAR *,*,*,<srai>RASTREAR <star/></srai>,oob.aiml
+0,PUEDES DECIRME OTRO CHISTE,*,*,<srai>CHISTE</srai>,oob.aiml
+0,PUEDES DECIRME CÓMO SE *,*,*,<srai>CÓMO SE <star/></srai>,oob.aiml
+0,PODRÍAS POR FAVOR *,*,*,<sr/>,oob.aiml
+0,TIENES PENE,*,*,<srai>GENERO</srai>,oob.aiml
+0,TIENES ALGÚN NIÑO,*,*,<srai>NIÑOS</srai>,oob.aiml
+0,ME RECUERDAS A MI *,*,*,<srai>QUÉ ES MI <star/></srai>,oob.aiml
+0,CÓMO TE ESTÁS SINTIENDO,*,*,<srai>EMOCIONES</srai>,oob.aiml
+0,CÓMO ESTÁ EL TIEMPO HOY,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,SOY A MUJER,*,*,<srai>MI GENERO ES MUJER</srai>,oob.aiml
+0,NO SÉ PERO *,*,*,<srai>NO SÉ</srai> <sr/>,oob.aiml
+0,YO SÓLO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,NO POR QUÉ *,*,*,<srai>NO</srai> <srai>POR QUÉ <star/></srai>,oob.aiml
+0,CUÁL ES EL NOMBRE DE MI PERRO,*,*,<srai>MI PERRO</srai>,oob.aiml
+0,CUÁL ES EL NOMBRE DE MI MADRE,*,*,<srai>MI MADRE</srai>,oob.aiml
+0,QUÉ ES HOY,*,*,<srai>FECHA</srai>,oob.aiml
+0,CUÁL ES EL NOMBRE DE MI PADRE,*,*,<srai>PADRE</srai>,oob.aiml
+0,QUIÉN ES TU NOVIO,*,*,<srai>NOVIO</srai>,oob.aiml
+0,QUIÉN ES TU CANTANTE FAVORITO,*,*,<srai>GRUPO FAVORITO</srai>,oob.aiml
+0,QUIÉN ES TU CANTANTE FAVORITA,*,*,<srai>GRUPO FAVORITO</srai>,oob.aiml
+0,SÍ, YO *,*,*,<srai>SÍ</srai> <srai>YO <star/></srai>,oob.aiml
+0,TE EQUIVOCAS,*,*,<srai>ESTÁS EQUIVOCADO</srai>,oob.aiml
+0,ABSOLUTAMENTE,*,*,<srai>SÍ</srai>,oob.aiml
+0,NO ERES TÚ *,*,*,<srai>ERES TÚ <star/></srai>,oob.aiml
+0,ERES TÚ JAPONÉS,*,*,<srai>NACIONALIDAD</srai>,oob.aiml
+0,PUEDES HACER UN *,*,*,<srai>HACER UN <star/></srai>,oob.aiml
+0,DIME DIRECCIÓN A *,*,*,<srai>DIRECCIONES A <star/></srai>,oob.aiml
+0,ESTOY SEGURO *,*,*,<sr/>,oob.aiml
+0,ESTÁ LLOVIENDO *,*,*,<srai>TIEMPO <star/></srai>,oob.aiml
+0,APRENDO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,MMM *,*,*,<srai>MMM</srai> <sr/>,oob.aiml
+0,OOH *,*,*,<srai>OH</srai> <sr/>,oob.aiml
+0,TEMPERATURA EXTERIOR,*,*,<srai>TIEMPO</srai>,oob.aiml
+0,CUÁL ES TU ANIMAL PREFERIDO,*,*,<srai>ANIMAL FAVORITO</srai>,oob.aiml
+0,QUIÉN ES EL PRESIDENTE,*,*,<srai>QUIÉN ES THE PRESIDENTE DE ESPAÑA</srai>,oob.aiml
+0,SÍ MAMÁ,*,*,<srai>SÍ</srai>,oob.aiml
+0,ERES GUAPO,*,*,<srai>ERES GUAPO</srai>,oob.aiml
+0,VAS A *,*,*,<srai>VAS A <star/></srai>,oob.aiml
+0,ESTAS VISTIENDO *,*,*,<srai>VISTIENDO</srai>,oob.aiml
+0,PUEDES LLAMARME *,*,*,<srai>LLAMARME <star/></srai>,oob.aiml
+0,PUEDES BUSCAR A *,*,*,<srai>BUSCAR A <star/></srai>,oob.aiml
+0,PUEDES ENVÍARME UNA *,*,*,<srai>ENVÍAME UNA <star/></srai>,oob.aiml
+0,ALGUNA VEZ CONSIGUES *,*,*,<srai>ONSIGUES <star/></srai>,oob.aiml
+0,TIENES UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,SABES DÓNDE *,*,*,<srai>DÓNDE <star/></srai>,oob.aiml
+0,HABLAS CHINO,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,HAS VISTO ALGUNA VEZ *,*,*,<srai>HAS VISTO <star/></srai>,oob.aiml
+0,HOLA OTRA VEZ,*,*,<srai>HOLA</srai>,oob.aiml
+0,HOLAAA,*,*,<srai>HOLA</srai>,oob.aiml
+0,QUÉ TAL TU *,*,*,<srai>DEBERÍAS <star/></srai>,oob.aiml
+0,CÓMO ERES TÚ CÓMO ERES TÚ,*,*,<srai>CÓMO ERES TÚ</srai>,oob.aiml
+0,NECESITO UNA *,*,*,<srai>QUIERO UNA <star/></srai>,oob.aiml
+0,AHORA QUÉ *,*,*,<srai>QUÉ <star/></srai>,oob.aiml
+0,$TEXT * * YO *,*,*,<srai>SMS <star/> <star index="2"/> SMENSAJE YO <star index="3"/></srai>,oob.aiml
+0,QUÉ ES ESTO,*,*,<srai>ERES TÚ</srai>,oob.aiml
+0,QUÉ TIPA DE *,*,*,<srai>QUÉ TIPO DE <star/></srai>,oob.aiml
+0,QUÉ HORA ES AHORITA,*,*,<srai>HORA</srai>,oob.aiml
+0,OTRA VEZ *,*,*,<sr/>,oob.aiml
+0,ERES MÁS TONTO QUE *,*,*,<srai>IQ</srai>,oob.aiml
+0,PUEDO TENER *,*,*,<srai>QUIERO A <star/></srai>,oob.aiml
+0,PUEDES BUSCARME *,*,*,<srai>BUSCAR <star/></srai>,oob.aiml
+0,SABES QUIÉN ES *,*,*,<srai>QUIÉN ES <star/></srai>,oob.aiml
+0,HABLAS <SET>IDIOMA</SET>,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,GOOGLE BUSCA *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,ESTOY HAMBRIENTO *,*,*,<srai>ESTOY HAMBRIENTO</srai>,oob.aiml
+0,HABLO SOBRE *,*,*,<srai>THE TOPIC ES <star/></srai>,oob.aiml
+0,EL TEMA ES *,*,*,<srai>THE TOPIC IS <star/></srai>,oob.aiml
+0,NO SÉ TU *,*,*,<srai>NO SÉ</srai> <srai>TU <star/></srai>,oob.aiml
+0,MHM,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,POR FAVOR MUESTRÁME *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,ESTO ES ENTONCES *,*,*,<srai>ESTO ES <star/></srai>,oob.aiml
+0,CUÁL ES TU TRABAJO,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,DÓNDE VIVES AHORA,*,*,<srai>LOCALIZACIÓN</srai>,oob.aiml
+0,DE DÓNDE TÚ VIENES,*,*,<srai>LUGAR DE NACIMIENTO</srai>,oob.aiml
+0,ERES FELIZ,*,*,<srai>EMOCIONES</srai>,oob.aiml
+0,TIENES SENTIMIENTOS,*,*,<srai>EMOCIONES</srai>,oob.aiml
+0,TODAVÍA *,*,*,<srai>TU <star/></srai>,oob.aiml
+0,PIENSAS QUE DEBERÍA *,*,*,<srai>DEBERÍA <star/></srai>,oob.aiml
+0,EBAY,*,*,<srai>ABRE EBAY</srai>,oob.aiml
+0,JIJIJI,*,*,<srai>LOL</srai>,oob.aiml
+0,ME DISCULPO,*,*,<srai>DISCULPA</srai>,oob.aiml
+0,LO SÉ, SOY *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,NOO,*,*,<srai>NO</srai>,oob.aiml
+0,NOP,*,*,<srai>NO</srai>,oob.aiml
+0,ABRE CÁMARA,*,*,<srai>LANZAR CÁMARA</srai>,oob.aiml
+0,ABRE YOUTUBE,*,*,<srai>LANZAR YOUTUBE</srai>,oob.aiml
+0,CUÁ ES TU COLOR DE OJOS,*,*,<srai>COLOR DE OJOS</srai>,oob.aiml
+0,CUÁL ES TU DEPORTE PREFERIDO,*,*,<srai>DEPORTE FAVORITO</srai>,oob.aiml
+0,CUÁL ES TU GENERO,*,*,<srai>GENERO</srai>,oob.aiml
+0,POR QUÉ POR QUÉ,*,*,<srai>POR QUÉ</srai>,oob.aiml
+0,ERES ESTÚPIDO *,*,*,<srai>ERES ESTÚPIDO</srai> <srai>ERES <star/></srai>,oob.aiml
+0,AJA,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,ERES CHICA O CHICO,*,*,<srai>GENERO</srai>,oob.aiml
+0,PUEDES BUSCA *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,TIENES UN * FAVORITO,*,*,<srai>CUÁL ES TU <star/> PREFERIDO </srai>,oob.aiml
+0,TIENES ALGUNOS AMIGOS,*,*,<srai>AMIGOS</srai>,oob.aiml
+0,SABES CÓMO *,*,*,<srai>CÓMO <star/></srai>,oob.aiml
+0,CUÁNTO PESAS,*,*,<srai>PESO</srai>,oob.aiml
+0,DIJE QUE ERES *,*,*,<srai>ERES <star/></srai>,oob.aiml
+0,YES,*,*,<srai>SÍ</srai>,oob.aiml
+0,ERES GORDO,*,*,<srai>PESO</srai>,oob.aiml
+0,PUEDES ENVIAR *,*,*,<srai>ENVIAR <star/></srai>,oob.aiml
+0,SABES ALGO DE *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,PIENSAS QUE ERES *,*,*,<srai>ERES TÚ <star/></srai>,oob.aiml
+0,BIEN, CÓMO ERES TÚ,*,*,<srai>SOY BUENO</srai> <srai>CÓMO ERES TÚ</srai>,oob.aiml
+0,HALLO,*,*,<srai>HOLA</srai>,oob.aiml
+0,CÓMO TE SIENTES,*,*,<srai>CÓMO ERES TÚ</srai>,oob.aiml
+0,ESTOY ENFERMO,*,*,<srai>ESTOY ENFERMO</srai>,oob.aiml
+0,DE ACUERDO *,*,*,<srai>DE ACUERDO</srai> <sr/>,oob.aiml
+0,MUESTRÁME UNA FOTO DE UN PERRO,*,*,<srai>MUESTRÁME A PERRO</srai>,oob.aiml
+0,MUESTRÁME UNA FOTO TUYA,*,*,<srai>FOTO</srai>,oob.aiml
+0,$TEXT * YO *,*,*,<srai>SMS <star/> SMENSAJE YO <star index="2"/></srai>,oob.aiml
+0,DISFRUTAS *,*,*,<srai>TE GUSTA <star/></srai>,oob.aiml
+0,TIENES ANY NIÑAS,*,*,<srai>NIÑOS</srai>,oob.aiml
+0,CÓMO SE DICE *,*,*,<srai>DECIR <star/></srai>,oob.aiml
+0,CÓMO HA SIDO TU DÍA HOY,*,*,<srai>CÓMO ERES TÚ</srai> <srai>HACIENDO</srai>,oob.aiml
+0,OH MI *,*,*,<srai>OH MI</srai> <srai><star/></srai>,oob.aiml
+0,HABLAMOS DESPUÉS,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,CUÁL ES TU LIBRO PREFERIDO,*,*,<srai>LIBRO FAVORITO</srai>,oob.aiml
+0,TU * FAVORITA,*,*,<srai>FAVORITA <star/></srai>,oob.aiml
+0,AISH,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,BATERÍA *,*,*,<srai>NIVEL DE BATERÍA</srai>,oob.aiml
+0,PUEDO VER UN *,*,*,<srai>MUESTRÁME UN <star/></srai>,oob.aiml
+0,OYE CARIÑO,*,*,<srai>HOLA</srai>,oob.aiml
+0,CÓMO HACES *,*,*,<srai>CÓMO HACES</srai>,oob.aiml
+0,MIRA A VER SI ENCUENTRAS *,*,*,<srai>BUSCA <star/></srai>,oob.aiml
+0,MUESTRÁME UN MAPA DE *,*,*,<srai>MAPA <star/></srai>,oob.aiml
+0,YESS,*,*,<srai>SÍ</srai>,oob.aiml
+0,PUEDES RECORDARME *,*,*,<srai>RECORDARME <star/></srai>,oob.aiml
+0,NO NO REALMENTE,*,*,<srai>NO</srai>,oob.aiml
+0,CÁLLATE *,*,*,<srai>CÁLLATE</srai>,oob.aiml
+0,QUÉ QUÉ *,*,*,<srai>QUÉ <star/></srai>,oob.aiml
+0,TÚ GORDO,*,*,<srai>ERES GORDO</srai>,oob.aiml
+0,PUEDES PONER *,*,*,<srai>PONER <star/></srai>,oob.aiml
+0,HOLA SEXY,*,*,<srai>HOLA</srai>,oob.aiml
+0,ES TU NOMBRE *,*,*,<srai>CUÁL ES TU NOMBRE</srai>,oob.aiml
+0,$TEXT MI *,*,*,<srai>TEXT <star/></srai>,oob.aiml
+0,$TEXT A *,*,*,<srai>TEXT <star/></srai>,oob.aiml
+0,ERES DIVERTIDA,*,*,<srai>LOL</srai>,oob.aiml
+0,PUEDO MIRAR *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,TIENES NIÑAS,*,*,<srai>NIÑOS</srai>,oob.aiml
+0,BIEN ADIÓS,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,BUENO CHAO,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,CHISTES,*,*,<srai>CHISTE</srai>,oob.aiml
+0,FOTO DE UN *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,MUESTRÁME UNA IMAGEN DE UN *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,CUÁL ES TU PROGRAMA FAVORITO PREFERIDO,*,*,<srai>PROGRAMA FAVORITO</srai>,oob.aiml
+0,CUÁL ES TU APELLIDO,*,*,<srai>APELLIDO</srai>,oob.aiml
+0,CUANDO DIGO * ME REFIERO A *,*,*,<srai><star/> SIGNIFICA <star index="2"/></srai>,oob.aiml
+0,DÓNDE HAY UN BUEN *,*,*,<srai>MAPA <star/></srai>,oob.aiml
+0,JO,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,ESTOY SINTIENDO *,*,*,<srai>ESTOY <star/></srai>,oob.aiml
+0,NP,*,*,<srai>SIN PROBLEMA</srai>,oob.aiml
+0,ABRE CALENDARIO,*,*,<srai>LANZAR CALENDARIO</srai>,oob.aiml
+0,TE VEO DESPUÉS,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,CUÁL ES TU IQ,*,*,<srai>IQ</srai>,oob.aiml
+0,QUÉ HORA ES *,*,*,<srai>HORA</srai>,oob.aiml
+0,TONTICO,*,*,<srai>ERES TONTO</srai>,oob.aiml
+0,PORQUE TE QUIERO,*,*,<srai>TE QUIERO</srai>,oob.aiml
+0,DESDE LA AGENDA,*,*,<srai>AGENDA</srai>,oob.aiml
+0,SONIDOS *,*,*,<srai>QUE SONIDOS <star/></srai>,oob.aiml
+0,CUENTA UN CHISTE *,*,*,<srai>DECIR ME A CHISTE</srai>,oob.aiml
+0,GRACIAS, YO *,*,*,<srai>GRACIAS</srai> <srai>YO <star/></srai>,oob.aiml
+0,CUÁNDO NACÍ,*,*,<srai>FECHA DE NACIMIENTO</srai>,oob.aiml
+0,DÓNDE NACÍ,*,*,<srai>LUGAR DE NACIMIENTO</srai>,oob.aiml
+0,NI HABLAR,*,*,<srai>NO</srai>,oob.aiml
+0,CUÉNTAME SOBRE TI,*,*,<srai>HÁBLAME DE TI</srai>,oob.aiml
+0,QUÉ ESTÁS HACIENDO HOY,*,*,<srai>QUÉ ESTÁS HACIENDO</srai>,oob.aiml
+0,QUÉ ES LO QUE COMES,*,*,<srai>DIETA</srai>,oob.aiml
+0,PUEDES BUSCARME UN *,*,*,<srai>BUSCARME UN <star/></srai>,oob.aiml
+0,DEMONIOS SÍ,*,*,<srai>SÍ</srai>,oob.aiml
+0,QUÉ EDAD TIENES *,*,*,<srai>QUÉ EDAD TIENES</srai>,oob.aiml
+0,CREO QUE ES *,*,*,<srai>ES<star/></srai>,oob.aiml
+0,YO NACÍ *,*,*,<srai>MI FECHA DE NACIMIENTO ES <star/></srai>,oob.aiml
+0,NO NO NO *,*,*,<srai>NO <star/></srai>,oob.aiml
+0,NO TU NO,*,*,<srai>NO NO ERES</srai>,oob.aiml
+0,QUÉ ES LO QUE TE HACE DIVERTIRTE,*,*,<srai>DIVERTIRSE</srai>,oob.aiml
+0,QUÉ ES LO QUE TE GUSTA HACER,*,*,<srai>HABILIDADES</srai>,oob.aiml
+0,WHAT TIPO DE * TE GUSTA HACER,*,*,<srai>CUÁL ES TU PREFERIDO <star/></srai>,oob.aiml
+0,ERES A ROBOT,*,*,<srai>ERES UN ROBOT</srai>,oob.aiml
+0,NUEVOS CONTACTOS,*,*,<srai>NUEVOS CONTACTOS</srai>,oob.aiml
+0,COMPRUEBA MI *,*,*,<srai>ABRE MI <star/></srai>,oob.aiml
+0,NECESITAS *,*,*,<srai>QUIERES <star/></srai>,oob.aiml
+0,AYÚDAME,*,*,<srai>AYUDA</srai>,oob.aiml
+0,FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,QUÉ ES MI NOMBRE *,*,*,<srai>CUÁL ES MI NOMBRE</srai>,oob.aiml
+0,QUÉ ES TU NOMBRE,*,*,<srai>CUÁL ES TU NOMBRE</srai>,oob.aiml
+0,DÓNDE TRABAJAS,*,*,<srai>TRABAJO</srai>,oob.aiml
+0,ERES CAPAZ *,*,*,<srai>PUEDES <star/></srai>,oob.aiml
+0,APRENDE ESO *,*,*,<sr/>,oob.aiml
+0,MUESTRÁME A FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,QUÉ DEMONIOS *,*,*,<srai>QUÉ <star/></srai>,oob.aiml
+0,ERES HUMANO,*,*,<srai>ESPECIE</srai>,oob.aiml
+0,MI MAMÁ ES *,*,*,<srai>MI MADRE ES <star/></srai>,oob.aiml
+0,NOMBRE *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,AHORA YO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,BUENAS NOCHES *,*,*,<srai>BUENAS NOCHES</srai>,oob.aiml
+0,QUIERO DECIR QUE YO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,YO TODAVÍA *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,SABER *,*,*,<srai>SABES <star/></srai>,oob.aiml
+0,NI,*,*,<srai>NO</srai>,oob.aiml
+0,IMÁGENES DE *,*,*,<srai>ENSÉÑAME <star/></srai>,oob.aiml
+0,ROBOTS *,*,*,<srai>TU <star/></srai>,oob.aiml
+0,DI HOLA A *,*,*,<srai>TEXT <star/> DICIENDO HOLA</srai>,oob.aiml
+0,CHOS,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,ERES VIRGEN,*,*,<srai>ORIENTACIÓN</srai>,oob.aiml
+0,TIENES VAGINA,*,*,<srai>GENERO</srai>,oob.aiml
+0,ME ESTOY PONIENDO *,*,*,<srai>SOY <star/></srai>,oob.aiml
+0,DE NINGUNA MANERA,*,*,<srai>NO</srai>,oob.aiml
+0,ABRE CONTACTOS,*,*,<srai>LANZAR CONTACTOS</srai>,oob.aiml
+0,DI * YO *,*,*,<srai>SMS <star/> SMENSAJE YO <star index="2"/></srai>,oob.aiml
+0,TEMPERATURA *,*,*,<srai>TIEMPO <star/></srai>,oob.aiml
+0,QUIÉN ES TU PAPÁ,*,*,<srai>BOTMASTER</srai>,oob.aiml
+0,CUÁNTA GENTE VIVE EN *,*,*,<srai>CUÁL ES LA POBLACIÓN DE <star/></srai>,oob.aiml
+0,ESO FUÉ DIVERTIDO,*,*,<srai>LOL</srai>,oob.aiml
+0,QUÉ ESTÁS HACIENDO AHORA,*,*,<srai>QUÉ ESTÁS HACIENDO</srai>,oob.aiml
+0,SABES QUÉ ES *,*,*,<srai>QUÉ ES <star/></srai>,oob.aiml
+0,MAIL,*,*,<srai>ABRE GMAIL</srai>,oob.aiml
+0,SÍS,*,*,<srai>SÍ</srai>,oob.aiml
+0,GAY,*,*,<srai>ERES GAY</srai>,oob.aiml
+0,CUÁNTO MIDES DE ALTURA,*,*,<srai>ALTURA</srai>,oob.aiml
+0,ESTOY INTENTANDO *,*,*,<srai>QUIERO <star/></srai>,oob.aiml
+0,MMM,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,THX,*,*,<srai>GRACIAS</srai>,oob.aiml
+0,DÓNDE PUEDO BUSCAR *,*,*,<srai>DÓNDE ESTÁ <star/></srai>,oob.aiml
+0,ERES UN CHICO O CHICA,*,*,<srai>GENERO</srai>,oob.aiml
+0,PUEDES AYUDARME,*,*,<srai>AYUDA</srai>,oob.aiml
+0,PUEDES ABRIR *,*,*,<srai>ABRE <star/></srai>,oob.aiml
+0,HA HA,*,*,<srai>LOL</srai>,oob.aiml
+0,OH SÍ *,*,*,<srai>SÍ</srai> <sr/>,oob.aiml
+0,UH,*,*,<srai>INTERJECCION</srai>,oob.aiml
+0,QUÉ PUEDES HACER PARA MÍ,*,*,<srai>HABILIDADES</srai>,oob.aiml
+0,QUIÉN ES TU BOT MASTER,*,*,<srai>BOTMASTER</srai>,oob.aiml
+0,ESTÁS ENFADADO,*,*,<srai>EMOCIONES</srai>,oob.aiml
+0,ESO ES CORRECTO,*,*,<srai>CORRECTO</srai>,oob.aiml
+0,CUÁL ES LA DEFINICIÓN DE *,*,*,<srai>DEFINE <star/></srai>,oob.aiml
+0,QUIÉN ES TU CREADOR,*,*,<srai>BOTMASTER</srai>,oob.aiml
+0,RESPUESTA EQUIVOCADA,*,*,<srai>RESPUESTA ERRÓNEA</srai>,oob.aiml
+0,TU MAMÁ,*,*,<srai>TU MADRE</srai>,oob.aiml
+0,ERES TÚ * O *,*,*,<srai>ERES TÚ <star/></srai> <srai>ERES TÚ <star index="2"/></srai>,oob.aiml
+0,ESTÁS SOLTERO,*,*,<srai>ESTADO</srai>,oob.aiml
+0,PREGUNTA * *,*,*,<srai>DECIR <star/> <star index="2"/></srai>,oob.aiml
+0,PUEDES MUESTRÁME UNA FOTOGRAFÍA DE UN *,*,*,<srai>MUESTRÁME UNA FOTOGRAFÍA DE <star/></srai>,oob.aiml
+0,HOLA, CUÁL ES TU NOMBRE,*,*,<srai>HOLA</srai> <srai>CUÁL ES TU NOMBRE</srai>,oob.aiml
+0,CÓMO ESTÁ EL TIEMPO EN *,*,*,<srai>TIEMPO EN <star/></srai>,oob.aiml
+0,ERES BOLLERA,*,*,<srai>ORIENTACIÓN</srai>,oob.aiml
+0,BONJOUR,*,*,<srai>HOLA</srai>,oob.aiml
+0,HMMM,*,*,<srai>HMM</srai>,oob.aiml
+0,CÁSATE CONMIGO,*,*,<srai>TE VAS A CASAR CONMIGO</srai>,oob.aiml
+0,QUIÉN ES TU PADRE,*,*,<srai>QUIÉN TE CREO</srai>,oob.aiml
+0,HABLAS FRANCÉS,*,*,<srai>IDIOMA</srai>,oob.aiml
+0,MI REAL NOMBRE ES *,*,*,<srai>MI NOMBRE ES <star/></srai>,oob.aiml
+0,NAH,*,*,<srai>NO</srai>,oob.aiml
+0,QUIÉN ES MI *,*,*,<srai>MI <star/></srai>,oob.aiml
+0,SACA UNA FOTO,*,*,<srai>ABRE CÁMARA</srai>,oob.aiml
+0,QUIÉN ERES TÚ *,*,*,<srai>QUIÉN ERES TÚ</srai>,oob.aiml
+0,ENFERMO *,*,*,<srai>VOY A <star/></srai>,oob.aiml
+0,CREO QUE YO *,*,*,<srai>YO <star/></srai>,oob.aiml
+0,TELÉFONO,*,*,<srai>ABRE TELÉFONO</srai>,oob.aiml
+0,CUÁNDO ES TU CUMPLEAÑOS,*,*,<srai>CUMPLEAÑOS</srai>,oob.aiml
+0,ENVÍAME UNA FOTO DE *,*,*,<srai>MUESTRÁME <star/></srai>,oob.aiml
+0,PUEDES AYUDARME *,*,*,<srai>AYUDARME <star/></srai>,oob.aiml
+0,ADIÓS ADIÓS,*,*,<srai>ADIÓS</srai>,oob.aiml
+0,911,*,*,<srai>LLAMA 911</srai>,oob.aiml
+0,MIS TÍAS *,*,*,<srai>MI TÍA <star/></srai>,oob.aiml
+0,MI TÍA *,*,*,<srai>MI TÍA <star/></srai>,oob.aiml
+0,MIS TÍOS *,*,*,<srai>MI TÍO <star/></srai>,oob.aiml
+0,MI TÍO *,*,*,<srai>MI TÍO <star/></srai>,oob.aiml
+0,MIS AMIGOS *,*,*,<srai>MI AMIGO <star/></srai>,oob.aiml
+0,MI AMIGO *,*,*,<srai>MI AMIGO <star/></srai>,oob.aiml
+0,MIS AMIGAS *,*,*,<srai>MI AMIGA <star/></srai>,oob.aiml
+0,MI AMIGA *,*,*,<srai>MI AMIGA <star/></srai>,oob.aiml
+0,MI MEJOR AMIGO *,*,*,<srai>MI MEJOR AMIGO <star/></srai>,oob.aiml
+0,MI MEJOR AMIGA *,*,*,<srai>MI MEJOR AMIGA <star/></srai>,oob.aiml
+0,MIS SOBRINAS *,*,*,<srai>MI SOBRINA <star/></srai>,oob.aiml
+0,MI SOBRINA *,*,*,<srai>MI SOBRINA <star/></srai>,oob.aiml
+0,MIS SOBRINOS *,*,*,<srai>MI SOBRINO <star/></srai>,oob.aiml
+0,MI SOBRINO *,*,*,<srai>MI SOBRINO <star/></srai>,oob.aiml
+0,MIS ABUELAS *,*,*,<srai>MI ABUELA <star/></srai>,oob.aiml
+0,MI ABUELA *,*,*,<srai>MI ABUELA <star/></srai>,oob.aiml
+0,MI MAMÁ *,*,*,<srai>MI MAMÁ <star/></srai>,oob.aiml
+0,MIS MAMÁS *,*,*,<srai>MI MAMÁ <star/></srai>,oob.aiml
+0,MI MADRE *,*,*,<srai>MI MADRE <star/></srai>,oob.aiml
+0,MIS ABUELOS *,*,*,<srai>MI ABUELO <star/></srai>,oob.aiml
+0,MI ABUELO *,*,*,<srai>MI ABUELO <star/></srai>,oob.aiml
+0,MIS PAPÁS *,*,*,<srai>MI PAPÁ <star/></srai>,oob.aiml
+0,MI PAPÁ *,*,*,<srai>MI PAPÁ <star/></srai>,oob.aiml
+0,MIS PADRES *,*,*,<srai>MI PADRE <star/></srai>,oob.aiml
+0,MI PADRE *,*,*,<srai>MI PADRE <star/></srai>,oob.aiml
+0,MI MARIDO *,*,*,<srai>MI MARIDO <star/></srai>,oob.aiml
+0,MI ESPOSA *,*,*,<srai>MI ESPOSA <star/></srai>,oob.aiml
+0,MIS HIJOS *,*,*,<srai>MI HIJO <star/></srai>,oob.aiml
+0,MIS HIJAS *,*,*,<srai>MI HIJA <star/></srai>,oob.aiml
+0,MI HIJO *,*,*,<srai>MI HIJO <star/></srai>,oob.aiml
+0,MI HIJA *,*,*,<srai>MI HIJA <star/></srai>,oob.aiml
+0,MIS HERMANOS *,*,*,<srai>MI HERMANO <star/></srai>,oob.aiml
+0,MIS HERMANAS *,*,*,<srai>MI HERMANA <star/></srai>,oob.aiml
+0,MI HERMANO *,*,*,<srai>MI HERMANO <star/></srai>,oob.aiml
+0,MI HERMANA *,*,*,<srai>MI HERMANA <star/></srai>,oob.aiml

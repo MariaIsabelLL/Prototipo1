@@ -1,0 +1,164 @@
+0,0,*,*,<random> #Newline          <li>Cero.</li>#Newline        </random>,numeros.aiml
+0,1,*,*,<random> #Newline          <li>Uno.</li>#Newline        </random>,numeros.aiml
+0,2,*,*,<random> #Newline          <li>Dos.</li>#Newline        </random>,numeros.aiml
+0,3,*,*,<random> #Newline          <li>Tres.</li>#Newline        </random>,numeros.aiml
+0,4,*,*,<random> #Newline          <li>Cuatro.</li>#Newline        </random>,numeros.aiml
+0,5,*,*,<random> #Newline          <li>Cinco.</li>#Newline        </random>,numeros.aiml
+0,6,*,*,<random> #Newline          <li>Seis.</li>#Newline        </random>,numeros.aiml
+0,7,*,*,<random> #Newline          <li>Siete.</li>#Newline        </random>,numeros.aiml
+0,8,*,*,<random> #Newline          <li>Ocho.</li>#Newline        </random>,numeros.aiml
+0,9,*,*,<random> #Newline          <li>Nueve.</li>#Newline        </random>,numeros.aiml
+0,10,*,*,<random> #Newline          <li>Diez.</li>#Newline        </random>,numeros.aiml
+0,11,*,*,<random> #Newline          <li>Once.</li>#Newline        </random>,numeros.aiml
+0,12,*,*,<random> #Newline          <li>Doce.</li>#Newline        </random>,numeros.aiml
+0,13,*,*,<random> #Newline          <li>Trece.</li>#Newline        </random>,numeros.aiml
+0,14,*,*,<random> #Newline          <li>Catorce.</li>#Newline        </random>,numeros.aiml
+0,15,*,*,<random> #Newline          <li>Quince.</li>#Newline        </random>,numeros.aiml
+0,16,*,*,<random> #Newline          <li>Dieciseis.</li>#Newline        </random>,numeros.aiml
+0,17,*,*,<random> #Newline          <li>Diecisiete.</li>#Newline        </random>,numeros.aiml
+0,18,*,*,<random> #Newline          <li>Dieciocho.</li>#Newline        </random>,numeros.aiml
+0,19,*,*,<random> #Newline          <li>Diecinueve.</li>#Newline        </random>,numeros.aiml
+0,20,*,*,<random> #Newline          <li>Veinte.</li>#Newline        </random>,numeros.aiml
+0,21,*,*,<random> #Newline          <li>Veintiuno.</li>#Newline        </random>,numeros.aiml
+0,22,*,*,<random> #Newline          <li>Veintidos.</li>#Newline        </random>,numeros.aiml
+0,23,*,*,<random> #Newline          <li>Veintitres.</li>#Newline        </random>,numeros.aiml
+0,24,*,*,<random> #Newline          <li>Veinticuatro.</li>#Newline        </random>,numeros.aiml
+0,25,*,*,<random> #Newline          <li>Veinticinco.</li>#Newline        </random>,numeros.aiml
+0,26,*,*,<random> #Newline          <li>Veintiseis.</li>#Newline        </random>,numeros.aiml
+0,27,*,*,<random> #Newline          <li>Veintisiete.</li>#Newline        </random>,numeros.aiml
+0,28,*,*,<random> #Newline          <li>Veintiocho.</li>#Newline        </random>,numeros.aiml
+0,29,*,*,<random> #Newline          <li>Veintinueve.</li>#Newline        </random>,numeros.aiml
+0,30,*,*,<random> #Newline          <li>Treinta.</li>#Newline        </random>,numeros.aiml
+0,31,*,*,<random> #Newline          <li>Treintayuno.</li>#Newline        </random>,numeros.aiml
+0,32,*,*,<random> #Newline          <li>Treintaydos.</li>#Newline        </random>,numeros.aiml
+0,33,*,*,<random> #Newline          <li>Treintaytres.</li>#Newline        </random>,numeros.aiml
+0,34,*,*,<random> #Newline          <li>Treintaycuatro.</li>#Newline        </random>,numeros.aiml
+0,35,*,*,<random> #Newline          <li>Treintaycinco.</li>#Newline        </random>,numeros.aiml
+0,36,*,*,<random> #Newline          <li>Treintayseis.</li>#Newline        </random>,numeros.aiml
+0,37,*,*,<random> #Newline          <li>Treintaysiete.</li>#Newline        </random>,numeros.aiml
+0,38,*,*,<random> #Newline          <li>Treintayocho.</li>#Newline        </random>,numeros.aiml
+0,39,*,*,<random> #Newline          <li>Treintaynueve.</li>#Newline        </random>,numeros.aiml
+0,40,*,*,<random> #Newline          <li>Cuareinta.</li>#Newline        </random>,numeros.aiml
+0,0 *,*,*,<srai>0</srai>,numeros.aiml
+0,* 0,*,*,<srai>0</srai>,numeros.aiml
+0,_ 0 *,*,*,<srai>0</srai>,numeros.aiml
+0,1 *,*,*,<srai>1</srai>,numeros.aiml
+0,* 1,*,*,<srai>1</srai>,numeros.aiml
+0,_ 1 *,*,*,<srai>1</srai>,numeros.aiml
+0,2 *,*,*,<srai>2</srai>,numeros.aiml
+0,* 2,*,*,<srai>2</srai>,numeros.aiml
+0,_ 2 *,*,*,<srai>2</srai>,numeros.aiml
+0,3 *,*,*,<srai>3</srai>,numeros.aiml
+0,* 3,*,*,<srai>3</srai>,numeros.aiml
+0,_ 3 *,*,*,<srai>3</srai>,numeros.aiml
+0,4 *,*,*,<srai>4</srai>,numeros.aiml
+0,* 4,*,*,<srai>4</srai>,numeros.aiml
+0,_ 4 *,*,*,<srai>4</srai>,numeros.aiml
+0,5 *,*,*,<srai>5</srai>,numeros.aiml
+0,* 5,*,*,<srai>5</srai>,numeros.aiml
+0,_ 5 *,*,*,<srai>5</srai>,numeros.aiml
+0,6 *,*,*,<srai>6</srai>,numeros.aiml
+0,* 6,*,*,<srai>6</srai>,numeros.aiml
+0,_ 6 *,*,*,<srai>6</srai>,numeros.aiml
+0,7 *,*,*,<srai>7</srai>,numeros.aiml
+0,* 7,*,*,<srai>7</srai>,numeros.aiml
+0,_ 7 *,*,*,<srai>7</srai>,numeros.aiml
+0,8 *,*,*,<srai>8</srai>,numeros.aiml
+0,* 8,*,*,<srai>8</srai>,numeros.aiml
+0,_ 8 *,*,*,<srai>8</srai>,numeros.aiml
+0,9 *,*,*,<srai>9</srai>,numeros.aiml
+0,* 9,*,*,<srai>9</srai>,numeros.aiml
+0,_ 9 *,*,*,<srai>9</srai>,numeros.aiml
+0,10 *,*,*,<srai>10</srai>,numeros.aiml
+0,* 10,*,*,<srai>10</srai>,numeros.aiml
+0,_ 10 *,*,*,<srai>10</srai>,numeros.aiml
+0,11 *,*,*,<srai>11</srai>,numeros.aiml
+0,* 11,*,*,<srai>11</srai>,numeros.aiml
+0,_ 11 *,*,*,<srai>11</srai>,numeros.aiml
+0,12 *,*,*,<srai>12</srai>,numeros.aiml
+0,* 12,*,*,<srai>12</srai>,numeros.aiml
+0,_ 12 *,*,*,<srai>12</srai>,numeros.aiml
+0,13 *,*,*,<srai>13</srai>,numeros.aiml
+0,* 13,*,*,<srai>13</srai>,numeros.aiml
+0,_ 13 *,*,*,<srai>13</srai>,numeros.aiml
+0,14 *,*,*,<srai>14</srai>,numeros.aiml
+0,* 14,*,*,<srai>14</srai>,numeros.aiml
+0,_ 14 *,*,*,<srai>14</srai>,numeros.aiml
+0,15 *,*,*,<srai>15</srai>,numeros.aiml
+0,* 15,*,*,<srai>15</srai>,numeros.aiml
+0,_ 15 *,*,*,<srai>15</srai>,numeros.aiml
+0,16 *,*,*,<srai>16</srai>,numeros.aiml
+0,* 16,*,*,<srai>16</srai>,numeros.aiml
+0,_ 16 *,*,*,<srai>16</srai>,numeros.aiml
+0,17 *,*,*,<srai>17</srai>,numeros.aiml
+0,* 17,*,*,<srai>17</srai>,numeros.aiml
+0,_ 17 *,*,*,<srai>17</srai>,numeros.aiml
+0,18 *,*,*,<srai>18</srai>,numeros.aiml
+0,* 18,*,*,<srai>18</srai>,numeros.aiml
+0,_ 18 *,*,*,<srai>18</srai>,numeros.aiml
+0,19 *,*,*,<srai>19</srai>,numeros.aiml
+0,* 19,*,*,<srai>19</srai>,numeros.aiml
+0,_ 19 *,*,*,<srai>19</srai>,numeros.aiml
+0,20 *,*,*,<srai>20</srai>,numeros.aiml
+0,* 20,*,*,<srai>20</srai>,numeros.aiml
+0,_ 20 *,*,*,<srai>20</srai>,numeros.aiml
+0,21 *,*,*,<srai>21</srai>,numeros.aiml
+0,* 21,*,*,<srai>21</srai>,numeros.aiml
+0,_ 21 *,*,*,<srai>21</srai>,numeros.aiml
+0,22 *,*,*,<srai>22</srai>,numeros.aiml
+0,* 22,*,*,<srai>22</srai>,numeros.aiml
+0,_ 22 *,*,*,<srai>22</srai>,numeros.aiml
+0,23 *,*,*,<srai>23</srai>,numeros.aiml
+0,* 23,*,*,<srai>23</srai>,numeros.aiml
+0,_ 23 *,*,*,<srai>23</srai>,numeros.aiml
+0,24 *,*,*,<srai>24</srai>,numeros.aiml
+0,* 24,*,*,<srai>24</srai>,numeros.aiml
+0,_ 24 *,*,*,<srai>24</srai>,numeros.aiml
+0,25 *,*,*,<srai>25</srai>,numeros.aiml
+0,* 25,*,*,<srai>25</srai>,numeros.aiml
+0,_ 25 *,*,*,<srai>25</srai>,numeros.aiml
+0,26 *,*,*,<srai>26</srai>,numeros.aiml
+0,* 26,*,*,<srai>26</srai>,numeros.aiml
+0,_ 26 *,*,*,<srai>26</srai>,numeros.aiml
+0,27 *,*,*,<srai>27</srai>,numeros.aiml
+0,* 27,*,*,<srai>27</srai>,numeros.aiml
+0,_ 27 *,*,*,<srai>27</srai>,numeros.aiml
+0,28 *,*,*,<srai>28</srai>,numeros.aiml
+0,* 28,*,*,<srai>28</srai>,numeros.aiml
+0,_ 28 *,*,*,<srai>28</srai>,numeros.aiml
+0,29 *,*,*,<srai>29</srai>,numeros.aiml
+0,* 29,*,*,<srai>29</srai>,numeros.aiml
+0,_ 29 *,*,*,<srai>29</srai>,numeros.aiml
+0,30 *,*,*,<srai>30</srai>,numeros.aiml
+0,* 30,*,*,<srai>30</srai>,numeros.aiml
+0,_ 30 *,*,*,<srai>30</srai>,numeros.aiml
+0,31 *,*,*,<srai>31</srai>,numeros.aiml
+0,* 31,*,*,<srai>31</srai>,numeros.aiml
+0,_ 31 *,*,*,<srai>31</srai>,numeros.aiml
+0,32 *,*,*,<srai>32</srai>,numeros.aiml
+0,* 32,*,*,<srai>32</srai>,numeros.aiml
+0,_ 32 *,*,*,<srai>2</srai>,numeros.aiml
+0,33 *,*,*,<srai>33</srai>,numeros.aiml
+0,* 33,*,*,<srai>33</srai>,numeros.aiml
+0,_ 33 *,*,*,<srai>33</srai>,numeros.aiml
+0,34 *,*,*,<srai>34</srai>,numeros.aiml
+0,* 34,*,*,<srai>34</srai>,numeros.aiml
+0,_ 34 *,*,*,<srai>34</srai>,numeros.aiml
+0,35 *,*,*,<srai>35</srai>,numeros.aiml
+0,* 35,*,*,<srai>35</srai>,numeros.aiml
+0,_ 35 *,*,*,<srai>35</srai>,numeros.aiml
+0,36 *,*,*,<srai>36</srai>,numeros.aiml
+0,* 36,*,*,<srai>36</srai>,numeros.aiml
+0,_ 36 *,*,*,<srai>36</srai>,numeros.aiml
+0,37 *,*,*,<srai>37</srai>,numeros.aiml
+0,* 37,*,*,<srai>37</srai>,numeros.aiml
+0,_ 37 *,*,*,<srai>37</srai>,numeros.aiml
+0,38 *,*,*,<srai>38</srai>,numeros.aiml
+0,* 38,*,*,<srai>38</srai>,numeros.aiml
+0,_ 38 *,*,*,<srai>38</srai>,numeros.aiml
+0,39 *,*,*,<srai>39</srai>,numeros.aiml
+0,* 39,*,*,<srai>39</srai>,numeros.aiml
+0,_ 39 *,*,*,<srai>39</srai>,numeros.aiml
+0,40 *,*,*,<srai>40</srai>,numeros.aiml
+0,* 40,*,*,<srai>40</srai>,numeros.aiml
+0,_ 40 *,*,*,<srai>40</srai>,numeros.aiml

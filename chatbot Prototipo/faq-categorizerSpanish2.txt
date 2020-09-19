@@ -1,0 +1,7 @@
+saludos	 hola como estás? buenos días buenas tardes buenas noches 
+conversacion-continua de acuerdo
+consulta-clases qué clases tienen? qué enseñan?
+tipos-clases que tipos de clases dictan? cuáles son las clases que enseñan? 
+inicio-clases cómo comienzo una clase? que tengo que hacer para llevar una clase? que hago para llevar la clase?
+basico-clases cuáles son las clases básicas?
+conversacion-completa	 Gracias eso es todo Gracias por tu información.

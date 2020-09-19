@@ -1,0 +1,5 @@
+saludos=Hola, puedo ayudarlo?
+conversacion-continua=En qué más puedo ayudarle?
+precio-consulta=El precio para este producto es de 300
+producto-consulta=Este producto es  
+conversacion-completa=Gusto en hablar contigo.Bye

@@ -1,0 +1,7 @@
+saludos=Hola, puedo ayudarlo?
+conversacion-continua=En qué más puedo ayudarle?
+conversacion-completa=Gusto en hablar contigo.Bye
+consulta-clases=Actualmente contamos con diversos cursos para ayudarte a entender las TICs
+tipos-clases=Las clases que enseñamos son redes sociales, videollamadas, etc.
+inicio-clases=Para comenzar una clase debe escoger de acuerdo a su nivel de conocimientos actual.
+basico-clases=Te recomiendo comenzar llevando un curso de videollamadas y redes sociales.

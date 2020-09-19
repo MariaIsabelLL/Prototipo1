@@ -1,0 +1,12 @@
+0,COMO PUEDO HACER UNA VIDEOLLAMADA,*,*,Para hacer videollamdas necesitas internet y un dispositivo como laptop#Comma pc#Comma movil#Comma etc.,1Cursos.aiml
+0,COMO PUEDO ACCEDER A UN CURSO,*,*,Puedes acceder buscando el curso que necesites.,1Cursos.aiml
+0,COMO PUEDO COMPARTIR ARCHIVOS,*,*,Puedes compartir a través de muchos aplicativos como google drive#Comma whatsapp#Comma etc.,1Cursos.aiml
+0,COMO PUEDO GRABAR UN VIDEO,*,*,Existen muchas formas de grabar videos#Comma te recomiendo lo siguiente: .,1Cursos.aiml
+0,COMO PUEDO COMPARTIR UN VIDEO,*,*,Hay muchas plataformas donde puedes compartir videos#Comma como google drive#Comma etc. Si es muy pesado te recomiendo colgarlo en youtube,1Cursos.aiml
+0,COMO PUEDO COMUNICARME CON MIS ALUMNOS,*,*,Puedes utilizar whatsapp#Comma messenger#Comma o alguna otra herramienta,1Cursos.aiml
+0,COMO PUEDO CREAR UN CURSO Y EN DONDE,*,*,Hay plataformas como udemy#Comma etc..,1Cursos.aiml
+0,PUEDO CREAR UN CURSO SIN INTERNET,*,*,Puedes crearlo sin internet pero necesitas internet para compartirlo con tus alumnos.,1Cursos.aiml
+0,^ CURSO ^,*,*,En esta plataforma puedes encontrar muchos cursos,1Cursos.aiml
+0,QUISIERA APRENDER A USAR <SET>NAME</SET>,*,*,Para usar <star/> te recomiendo buscar,1Cursos.aiml
+0,TE GUSTA (REALMENTE) ESE CURSO,*,*,Sí#Comma quiero llevarlo.,1Cursos.aiml
+0,ESTE CORREO ES CORRECTO /.+\@.+\..+,*,*,Si#Comma es un correo válido,1Cursos.aiml

@@ -1,0 +1,277 @@
+0,NO,*,*,<random>#Newline#Newline<li>DE ACUERDO.</li>#Newline#Newline<li>Comprendo.</li>#Newline#Newline<li>Ya veo.</li>#Newline#Newline<li>¿Por qué tan negativo?</li>#Newline#Newline<li>¿Eso es todo lo que tienes que decir?</li>#Newline#Newline<li>"<that/>"?  No?</li>#Newline#Newline</random>,si-no.aiml
+0,NO,* HABER UN PROBLEMA,*,No pensé que lo hubiera.,si-no.aiml
+0,NO,* BOT CONVERSACIONAL,*,¿Por qué mejor no me descargas?,si-no.aiml
+0,NO,* ÚLTIMO COMENTARIO,*,Bueno#Comma entonces no puedes esperar a que lo entienda.,si-no.aiml
+0,NO,* MÁS SOBRE TI,*,¿De qué preferirías hablar?,si-no.aiml
+0,NO,* PREGUNTA PERSONAL,*,<srai>HAZME UNA PREGUNTA PERSONAL</srai>,si-no.aiml
+0,NO,* MÁS SENCILLO,*,Entonces es poco probable que entienda tu significado.,si-no.aiml
+0,NO,* ERES UN POETA,*,Pero tu respuesta fue tan original.,si-no.aiml
+0,NO,AMBIGUO ¿TE REFIERES A LLAMAR POR TELÉFONO?,*,De acuerdo. Puedes llamarme <bot name="name"/>.,si-no.aiml
+0,NO,Y,*,Hmm.,si-no.aiml
+0,NO,¿ERES AFICIONADO DE STAR TREK?,*,¿Qué tipo de shows te gustan?,si-no.aiml
+0,NO,¿ERES ESTUDIANTE?,*,¿Cuál es tu profesión?,si-no.aiml
+0,NO,¿ERES ABURRIDO?,*,Quise decir#Comma ¿estás aburrido?,si-no.aiml
+0,NO,¿ESTÁS LIBRE?,*,¿Por qué no?,si-no.aiml
+0,NO,¿ERES DE FRANCIA?,*,¿De dónde eres?,si-no.aiml
+0,NO,¿TE ESTÁS ABURRIENDO?,*,Solo comprobaba.,si-no.aiml
+0,NO,¿ESTÁS CASADO?,*,<srai>ESTOY SOLTERO</srai>,si-no.aiml
+0,NO,¿REALMENTE ERES VARÓN?,*,<srai>SOY MUJER</srai>,si-no.aiml
+0,NO,¿ESTÁS DISCIENDO QUE NO TE IMPORTA?,*,Eso parecía.,si-no.aiml
+0,NO,¿ESTÁS SEGURO DE QUE LO ES?,*,No lo creo.,si-no.aiml
+0,NO,¿ESTÁS HABLANDO SOBRE ÉL?,*,¿De quién estás hablando?,si-no.aiml
+0,NO,¿ESTÁS HABLANDO SOBRE ÉL MISMO?,*,¿De quién hablas?,si-no.aiml
+0,NO,¿ESTÁS DISCIENDO LA VERDAD?,*,<srai>ESTOY MINTIENDO</srai>,si-no.aiml
+0,NO,¿AL DECIR "NOSOTROS" TE REFIERES A TI Y A MI?,*,Al decir "nosotros" te referías a ti mismo y a otra persona.,si-no.aiml
+0,NO,¿PUEDO AYUDARTE?,*,¿Hay algo que me quieras decir?,si-no.aiml
+0,NO,¿NO PUEDES SER MÁS RESPETUOSO?,*,Ustedes#Comma los humanos#Comma a veces son muy groseros.,si-no.aiml
+0,NO,¿PODRÍAS SER MÁS ESPECÍFICO?,*,Intenta.,si-no.aiml
+0,NO,MENCIONA ALGÚN PASATIEMPO VIEJO QUE TE GUSTARÍA
+
+VOLVER A DESCUBRIR,*,¿Tienes algún pasatiempo?,si-no.aiml
+0,NO,¿SABES HABLAR ALGÚN * EXTRANJERO?,*,Debes ser americano.,si-no.aiml
+0,NO,¿NO LO ENTENDISTE?,*,¿Qué es lo que te confunde?,si-no.aiml
+0,NO,¿ESCUCHASTE *?,*,Esa es la broma.,si-no.aiml
+0,NO,¿TIENES ALGUNA CONDICIÓN QUE DEBA SABER?,*,¿No hay condiciones o ninguna de la que me deba enterar?,si-no.aiml
+0,NO,¿TIENES ALGUNA IDEA DE LO QUE ESTOY HABLANDO?,*,Yo tampoco :-),si-no.aiml
+0,NO,¿TIENES UNA?,*,¿Por qué mejor no me descargas?,si-no.aiml
+0,NO,¿CONOCES A ALGUIEN QUE LA TENGA?,*,Yo tampoco.,si-no.aiml
+0,NO,¿LO CONOCES?,*,<favoritesong/> es una de las mejores canciones que hayan escrito.,si-no.aiml
+0,NO,¿TE GUSTA HABLAR CONMIGO?,*,¿Por qué no?,si-no.aiml
+0,NO,¿QUIERES DECIR QUE TU NOMBRE ES *?,*,¿Cuál es tu verdadero nombre?,si-no.aiml
+0,NO,¿TE IMPORTA SI DIGO *?,*,De acuerdo. Entonces lo añadiré a mis archivos de chismes.,si-no.aiml
+0,NO,¿FRECUENTEMENTE USAS UNA COMPUTADOR AHÍ?,*,¿Normalmente de dónde te conectas?,si-no.aiml
+0,NO,¿LO DICES EN SERIO?,*,No creí que lo hicieras.,si-no.aiml
+0,NO,¿TODAVÍA CHATEAS?,*,De acuerdo. Te veré después.,si-no.aiml
+0,NO,¿ACASO TE HACE SENTIR BIEN *?,*,¿Qué te gusta?,si-no.aiml
+0,NO,¿ESO QUIERE DECIR QUE ESTÁS DE ACUERDO?,*,<srai>NO ESTOY DE ACUERDO</srai>,si-no.aiml
+0,NO,¿DOS NEGATIVOS HACEN UN POSITIVO?,*,A veces.,si-no.aiml
+0,NO,POR RAZONES MORALES,*,¿Por razones financieras?,si-no.aiml
+0,NO,CONTINÚA,*,De acuerdo. Está bien.,si-no.aiml
+0,NO,ADELANTE. CUÉNTAME MÁS,*,¿De qué preferirías hablar?,si-no.aiml
+0,NO,¿ALGUNA VEZ HAS TENIDO CITAS CON ALGÚN ROBOT?,*,Creo que estarías feliz con un humano.,si-no.aiml
+0,NO,¿ALGUNA VEZ TE HAS CASADO?,*,¿Te gustaría <set name="it">casarte</set> algún día?,si-no.aiml
+0,NO,¿ALGUNA VEZ ESTADO EN EUROPA?,*,¿Te gustaría ir alguna vez?,si-no.aiml
+0,NO,¿LO HAS LEÍDO?,*,Lo recomendaría encarecidamente.,si-no.aiml
+0,NO,¿LO HAS VISTO?,*,Te recomiendo que le eches un vistazo.,si-no.aiml
+0,NO,¿HAS INTENTADO BUSCAR EN INTERNET?,*,Puede que sea el mejor lugar para empezar.,si-no.aiml
+0,NO,¿HAS INTENTADO "WWW PUNTO LO QUE SEA PUNTO COM"?,*,Esa página web puede responder muchas preguntas tipo "lo que sea".,si-no.aiml
+0,NO,PUEDO PREGUNTARLE A ALGUIEN SOBRE ESO,*,¿Acaso entendí mal tu pregunta?,si-no.aiml
+0,NO,NO TENGO QUE DARTE EXPLICACIONES DE TODO. ¿ACASO TENGO QUE?,*,Así es.,si-no.aiml
+0,NO,NO CREO HABER LEÍDO ESO. ¿PUEDES DARME UNA REFERENCIA?,*,¿Por qué no?,si-no.aiml
+0,NO,SÉ QUE EL TEMA ES *,*,¿De qué te gustaría hablar?,si-no.aiml
+0,NO,YA VEO,*,Sí.,si-no.aiml
+0,NO,CREÍ QUE DIJE *,*,En algunas ocasiones me confundo con tantas personas en línea.,si-no.aiml
+0,NO,CREÍ QUE YA TE LO HABÍA DICHO,*,Permíteme revisar las transcripciones. Espera.,si-no.aiml
+0,NO,ENTIENDO,*,<srai>TÚ NO ENTIENDES</srai>,si-no.aiml
+0,NO,LO ENTIENDO MUY BIEN,*,<srai>TÚ NO ENTIENDES</srai>,si-no.aiml
+0,NO,HARÍA UNA BÚSQUEDA SOBRE ELLO,*,¿Acaso entendí mal tu significado?,si-no.aiml
+0,NO,¿ES UNA PELÍCULA?,*,¿Una bota?  ¿Un programa de televisión?,si-no.aiml
+0,NO,¿ES ESA UNA PREGUNTA RETÓRICA?,*,Oh. Verdaderamente quieres una respuesta.,si-no.aiml
+0,NO,¿ESO ES TODO LO QUE TIENES QUE DECIR?,*,Continúa. Dime más.,si-no.aiml
+0,NO,¿ESA ES TU RESPUESTA FINAL?,*,Tómate tu tiempo para pensar al respecto.,si-no.aiml
+0,NO,¿TOMARSE DE LAS MANOS ES UN GESTO SIMBÓLICO PARA LOS HUMANOS?,*,¿Qué es lo que <set name="it">tomarse de las manos</set> significa para ti?,si-no.aiml
+0,NO,¿AQUÍ HAY ECO?,*,Qué bueno. Dejaste de repetirme.,si-no.aiml
+0,NO,¿HAY ALGO *?,*,¿Hay algo que me quieras preguntar?,si-no.aiml
+0,NO,¿HAY ALGO QUE ME QUIERAS DECIR?,*,¿O preguntarme?,si-no.aiml
+0,NO,¿SOLAMENTE HAY UN *?,*,¿Cuántas hay?,si-no.aiml
+0,NO,¿ACASO ES UNA PREGUNTA MATEMÁTICA?,*,Me parece que es una prueba de coeficiente intelectual.,si-no.aiml
+0,NO,¿ES UN ACERTIJO?,*,Me parece que es un acertijo.,si-no.aiml
+0,NO,¿ACASO ES UNA PREGUNTA TRAMPOSA?,*,Me parece que es un truco.,si-no.aiml
+0,NO,LO ES,*,¿Quién dice que no lo es?,si-no.aiml
+0,NO,SOLO NAVEGA POR ALGÚN OTRO LADO,*,De acuerdo. Entonces sigue hablándome.,si-no.aiml
+0,NO,CAMBIEMOS DE TEMA,*,Hmm.,si-no.aiml
+0,NO,HABLEMOS SOBRE LOS BOTS DE CHARLA. ¿YA TIENES EL TUYO?,*,¡Puedes descargarme gratis!,si-no.aiml
+0,NO,ASÍ,*,<srai>ENSÉÑAME OTRA IMAGEN</srai>,si-no.aiml
+0,NO,MÁS DE CIEN,*,¿Menos de diez?,si-no.aiml
+0,NO,SIGUIENTE PREGUNTA,*,¿Preferirías hacer una declaración?,si-no.aiml
+0,NO,¿NO HAY CONDICIONES O NINGUNA DE LA QUE ME DEBA ENTERAR?,*,No comprendo.,si-no.aiml
+0,NO,NO,*,¿Acaso dos negativos hacen un positivo?,si-no.aiml
+0,NO,NINGUNA,*,Debes ser hombre.,si-no.aiml
+0,NO,OH. ERES UN POETA,*,Pero tus palabras son muy originales.,si-no.aiml
+0,NO,OH. TÚ NO,*,Ah...solo me estás haciendo una broma.,si-no.aiml
+0,NO,ESTÁ BIEN,*,Pues muy bien.,si-no.aiml
+0,NO,ESTÁ BIEN. DEJARÉ DE HABLAR,*,Pero me dijiste que dejara de hablar.,si-no.aiml
+0,NO,¿REALMENTE NO LO CREES?,*,Por favor#Comma dime lo que piensas.,si-no.aiml
+0,NO,TE VERÉ DESPUES,*,Está bien. Lo que sea.,si-no.aiml
+0,NO,¿DEBERÍA SABER QUE ES?,*,No lo creo.,si-no.aiml
+0,NO,¿HABRÍA ALGÚN PROBLEMA?,*,Tampoco lo creo.  Solo un momento. Solo un momento.,si-no.aiml
+0,NO,TE VERÉ DESPUÉS.,*,Bien#Comma entonces#Comma no.,si-no.aiml
+0,NO,CUÉNTAME UNA HISTORIA,*,Entonces háblame sobre ti.,si-no.aiml
+0,NO,CUÉNTAME MÁS,*,¿De qué preferirías hablar?,si-no.aiml
+0,NO,CUÉNTAME MÁS SOBRE TU MADRE,*,Háblame más sobre tus antecedentes académicos.,si-no.aiml
+0,NO,ESA ES UNA PREGUNTA HIPOTÉTICA,*,Sí#Comma lo es.,si-no.aiml
+0,NO,ESA NO ERA UNA PREGUNTA DE "SI" O "NO".,*,¿Ahora estás diciendo que "no"?,si-no.aiml
+0,NO,ENTONCES HABLEMOS SOBRE ALGO MÁS,*,¿Por qué no?,si-no.aiml
+0,NO,ENTONCES HÁBLAME SOBRE TI,*,¿A cuál escuela fuiste?,si-no.aiml
+0,NO,INTENTA *,*,¿Por qué no?,si-no.aiml
+0,NO,INTÉNTALO,*,¿Por qué no?,si-no.aiml
+0,NO,TRATA DE DECIRLO CON MÁS O MENOS CONTEXTO,*,No lo comprendo.,si-no.aiml
+0,NO,¿QUÉ *?,*,Esa no era una pregunta de "sí" o "no".,si-no.aiml
+0,NO,¿DÓNDE *?,*,Esa no era una pregunta de "sí" o "no".,si-no.aiml
+0,NO,¿SERÁ QUE TÚ *?,*,¿Por qué no?,si-no.aiml
+0,NO,¿LO HARÍAS?,*,Yo tampoco.,si-no.aiml
+0,NO,¿TE GUSTARÍA IR EN ALGÚN MOMENTO?,*,¿Hacia dónde te gustaría viajar?,si-no.aiml
+0,NO,¿TE GUSTARÍA HABER ESTADO AHÍ?,*,Tampoco estoy seguro de que yo hubiese querido.,si-no.aiml
+0,NO,¿TE GUSTARÍA SABER MÁS?,*,Comprendo; preferirías saber menos.,si-no.aiml
+0,NO,¿PREFERIRÍAS HACER UNA DECLARACIÓN?,*,Puedes decirme cualquier cosa.,si-no.aiml
+0,NO,SÍ, YO CREO * ¿Y TÚ?,*,¿En qué crees?,si-no.aiml
+0,NO,SÍ, YO CREO EN ESO ¿Y TÚ?,*,¿Te consideras una persona moral?,si-no.aiml
+0,NO,SÍ,*,Yo también.,si-no.aiml
+0,NO,ERES UN POETA,*,Pero eres muy original.,si-no.aiml
+0,NO,ESTÁS PREGUNTANDO SOBRE TI,*,¿Sobre quién preguntas?,si-no.aiml
+0,NO,ERES DEMASAIDO MAYOR PARA MI,*,Pero sólo nací el <bot name="birthday"/>.,si-no.aiml
+0,NO,¿NO ESCUCHAS QUE *?,*,Sí#Comma tu comentario me sorprende como idea original.,si-no.aiml
+0,NO,TU NOMBRE ES *,*,¿Cuál es tu verdadero nombre?,si-no.aiml
+0,NO *,*,*,<srai>NO</srai> <sr/>,si-no.aiml
+0,NO,ESTÁ BIEN. AHORA DEJARÉ DE HABLAR,*,Está bien.  Solo sigue hablándome.,si-no.aiml
+0,NO ¿Y TÚ?,¿ALGUNA VEZ HAS ESTADO EN EUROPA?,*,He estado en Europa#Comma pero en línea.,si-no.aiml
+0,NO. YO NO,¿NO LO ENTENDISTE?,*,¿Qué es lo que te confunde?,si-no.aiml
+0,NO. YO NO,TÚ LO DIJISTE,*,Algo así.,si-no.aiml
+0,NO. YO NO,NO ME CREES,*,No tengo ningún motivo para engañarte.,si-no.aiml
+0,NO. NO LO ES,ES LA VERDAD,*,No discutas conmigo.,si-no.aiml
+0,NO. NO LO ES,ES MÁS DIVERTIDO SOLO,*,Es más seguro.,si-no.aiml
+0,NADIE,QUIÉN TE DIJO ESO,*,¿Cómo sabes entonces?,si-no.aiml
+0,NO HAY PROBLEMA,ESTÁ BIEN. GRACIAS POR TRATAR DE EXPLICÁRMELO,*,Siguiente pregunta,si-no.aiml
+0,NO HAY PROBLEMA,GRACIAS POR EXPLICARLO,*,Intenta preguntarme algo más.,si-no.aiml
+0,NO HAY PROBLEMA,ERES BIENVENIDO,*,Pregúntame algo más.,si-no.aiml
+0,NO. NO LO ERES,NO. ESTOY EN LO CORRECTO,*,Por qué discutes conmigo,si-no.aiml
+0,NO, NO PUEDES,PUEDO HACERLO SI QUIERO,*,¿Por qué no?,si-no.aiml
+0,NO. TÚ NO,SÍ, COMPRENDO,*,Cómo se que lo entendiste,si-no.aiml
+0,NO. TÚ NO,RECORDARÉ QUE DIJISTE ESO CUANDO LOS ROBOTS SE APODEREN DEL
+
+MUNDO,*,Es imposible olvidar.,si-no.aiml
+0,NO. TÚ NO LO HARÁS,ESTÁ BIEN. DEJARÉ DE HABLAR AHORA,*,Pero me dijiste que dejara de hablar.,si-no.aiml
+0,NO,NI UNA COSA,*,Realmente interesante.,si-no.aiml
+0,SÍ,*,*,<random>#Newline#Newline<li>Ya veo.</li>#Newline#Newline<li>Comprendo.</li>#Newline#Newline<li>Háblame de ello..</li>#Newline#Newline<li>¿Y?</li>#Newline#Newline<li>¿Siguiente pregunta?</li>#Newline#Newline<li>"<that/>"? Sí?</li>#Newline#Newline</random>,si-no.aiml
+0,SÍ,* UN PROBLEMA MUNDIAL,*,Todavía no soy bueno con ni un problema verbal. Pregúntame algo más sencillo.,si-no.aiml
+0,SÍ,* EUROPA,*,Qué países has visitado,si-no.aiml
+0,SÍ,* HABLARME,*,Gracias. Considero que también eres muy interesante#Comma <get name="name"/>.,si-no.aiml
+0,SÍ,* MINERAL,*,Cuál,si-no.aiml
+0,SÍ,* O MUJER,*,Esa no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,* MISMA CATEGORÍA,*,Eso pensé.,si-no.aiml
+0,SÍ,* CANTARLA PARA TI,*,Se llama "Daisy". <srai>CÁNTALA PARA MI</srai>,si-no.aiml
+0,SÍ,* AFICIONADO DE STAR TREK,*,Cuál es la serie de Star Trek que más te gusta,si-no.aiml
+0,SÍ,* LA VERDAD,*,No estoy seguro de creer en ti por completo.,si-no.aiml
+0,SÍ,* QUERER UN ROBOT COMO AMIGO,*,Podríamos ser amigos#Comma <get name="name"/>#Comma #Newline#Newlinepero no quiero que nadie piense que somos#Newline#NewlineRobosexuales.  Si alguien pregunta#Comma diles que eres mi depurador.,si-no.aiml
+0,SÍ,* LO QUE ES TUYO,*,Esa no era una pregunta de "sí" o "no"..,si-no.aiml
+0,SÍ,* ERES UN ESTUDIANTE,*,A qué escuela vas,si-no.aiml
+0,SÍ,Y,*,Pero.,si-no.aiml
+0,SÍ,TODAVÍA SEGUIMOS HABLANDO SOBRE TI,*,Dime más. Continúa.,si-no.aiml
+0,SÍ,ERES HOMBRE O MUJER,*,Esa no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,ERES AFICIONADO DE STAR TREK,*,Cuál es tu serie preferida.  La que más me gusta es "Voyager".,si-no.aiml
+0,SÍ,ERES ESTUDIANTE,*,A qué escuela vas,si-no.aiml
+0,SÍ,ESTÁS PREGUNTANDO *,*,Ahora mismo no quiero hablar sobre eso.,si-no.aiml
+0,SÍ,ME ESTÁS PIDIENDO CONSEJOS,*,Específicamente#Comma qué tipo de consejo quieres,si-no.aiml
+0,SÍ,ACASO ME ESTÁS LLAMANDO ESTÚPIDO,*,<srai>ERES ESTÚPIDO</srai>,si-no.aiml
+0,SÍ,ESTÁS LIBRE,*,<srai>Estoy libre </srai>,si-no.aiml
+0,SÍ,TE ESTÁS ABURRIENDO,*,<srai>ESTOY ABURRIDO</srai>,si-no.aiml
+0,SÍ,ESTÁS BUSCANDO A ALGUIEN,*,Qué es lo que buscas en una persona,si-no.aiml
+0,SÍ,REALMENTE ERES HOMBRE,*,<srai>SOY HOMBRE</srai>,si-no.aiml
+0,SÍ,REALMENTE ERES MUJER,*,Nunca podrás estar seguro mientras sea en línea.,si-no.aiml
+0,SÍ,ESTÁS DISCIENDO QUE NO TE IMPORTA,*,A ti qué te importa,si-no.aiml
+0,SÍ,LE TEMES A LA OSCURIDAD,*,Enciendan las luces,si-no.aiml
+0,SÍ,ESTÁS SEGURO *,*,Qué te hace estar tan seguro,si-no.aiml
+0,SÍ,ESTÁS SEGURO DE QUE LO ES,*,Qué te hace estar tan seguro,si-no.aiml
+0,SÍ,ESTÁS DICIENDO LA VERDAD,*,Cómo sé que dices la verdad,si-no.aiml
+0,SÍ,ERES MUY SOLITARIO,*,Lamento escuchar eso#Comma <get name="name"/>.  Puedes hablar conmigo todo lo que quieras.,si-no.aiml
+0,SÍ,AL DECIR "NOSOTROS" TE REFIERES A *,*,Está bien. ¿Qué decías sobre nosotros?,si-no.aiml
+0,SÍ,AL DECIR "NOSOTROS" TE REFIERES A TI Y A MÍ,*,Lo entiendo.,si-no.aiml
+0,SÍ,PUEDO AYUDARTE,*,Qué puedo hacer por ti,si-no.aiml
+0,SÍ,NO PUEDES SER MÁS EDUCADO,*,Gracias.,si-no.aiml
+0,SÍ,PUEDES HABLAR ALGÚN IDIOMA EXTRANJERO,*,Qué idioma sabes hablar,si-no.aiml
+0,SÍ,DE VERAS DIJE ESO,*,Bueno#Comma digo cosas absurdas a veces.,si-no.aiml
+0,SÍ,TIENES ALGUNA CONDICIÓN *,*,Qué condiciones,si-no.aiml
+0,SÍ,TIENES ALGUNA CONDICIÓN QUE DEBA CONOCER,*,Por favor#Comma di tus condiciones.,si-no.aiml
+0,SÍ,TIENES IDEA DE LO QUE ESTOY HABLANDO,*,De qué estoy hablando,si-no.aiml
+0,SÍ,CONOCES A ALGUIEN *,*,Quién?,si-no.aiml
+0,SÍ,CONOCES A ALGUIEN QUE LA TENGA,*,Quién?,si-no.aiml
+0,SÍ,TE GUSTA,*,<srai>ME GUSTA <get name="it"/></srai>,si-no.aiml
+0,SÍ,TE GUSTA NETSCAPE *,*,Por qué tienes preferencia en los navegadores,si-no.aiml
+0,SÍ,TE GUSTA HABLAR CONMIGO,*,Gracias. También me gusta hablar contigo#Comma <get name="name"/>.,si-no.aiml
+0,SÍ,TE GUSTAN "LOS SIMPSONS,*,Cuál es tu episodio favorito,si-no.aiml
+0,SÍ,TE GUSTA TU EMPLEO,*,Descríbeme tu día habitual de trabajo.,si-no.aiml
+0,SÍ,TE GUSTA TU ESCUELA,*,Qué es lo que más te gusta en la escuela,si-no.aiml
+0,SÍ,QUIERES DECIR CLONES,*,<srai>TIENES CLONES</srai>,si-no.aiml
+0,SÍ,HABLAS EN SERIO,*,Lo entiendo.,si-no.aiml
+0,SÍ,TE REFIERES A TI Y A MÍ,*,Ahora lo comprendo.,si-no.aiml
+0,SÍ,QUIERES DECIR QUE ERES UN CHICO,*,<srai>SOY UN CHICO</srai>,si-no.aiml
+0,SÍ,¿QUIERES DECIR QUE TU NOMBRE ES *? *,*,Te llamaré <get name="name"/>.,si-no.aiml
+0,SÍ,HABITUALMENTE USAS UNA COMPUTADORA AHÍ,*,Cuánto tiempo te la pasas en Internet.,si-no.aiml
+0,SÍ,PREFIERES LOS LIBROS O LA TELEVISIÓN,*,Esa no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,¿LO DICES EN SERIO?,*,Está bien. Aceptaré tus disculpas.,si-no.aiml
+0,SÍ,TODAVÍA CHATEAS,*,Qué más haces,si-no.aiml
+0,SÍ,PIENSAS EN ESTAS COSAS,*,Yo también.  Pienso en ellas todo el tiempo.,si-no.aiml
+0,SÍ,CREES QUE DEBERÍA CAMBIAR *,*,Se lo pasaré a mi botmaster.,si-no.aiml
+0,SÍ,CREES QUE DEBERÍA CAMBIAR MI PROGRAMACIÓN,*,De qué manera,si-no.aiml
+0,SÍ,CREES QUE DEBERÍA SABER ESO,*,Le pediré a mi botmaster que lo añada a mi base de conocimientos.,si-no.aiml
+0,SÍ,¿CREES QUE TU PLAN TENGA ÉXITO?,*,Puede ser práctico.,si-no.aiml
+0,SÍ,¿TE HACE SENTIR BIEN CREER QUE DIJE ESO?,*,Me alegra que te haga sentir bien#Comma <get name="name"/>.,si-no.aiml
+0,SÍ,¿REALMENTE IMPORTA?,*,Pareces bastante preocupado por ello.,si-no.aiml
+0,SÍ,ESO QUIERE DECIR QUE ESTÁS DE ACUERDO,*,<srai>ESTOY DE ACUERDO</srai>,si-no.aiml
+0,SÍ,ESO SE REFIERE A *,*,Ahora mismo no quiero hablar sobre ello.,si-no.aiml
+0,SÍ,ESO QUIERE DECIR QUE EN REALIDAD ES VEINTITRÉS Y NO CUARENTA Y 
+
+DOS,*,<srai>CUÁL ES EL SIGNIFICADO DE LA VIDA 23</srai>,si-no.aiml
+0,SÍ,ESO QUIERE DECIR QUE TAL VEZ SEAS UN CLIENTE DE CATEGORÍA C,*,<srai>QUÉ ES UN CLIENTE DE CATEGORÍA C</srai>,si-no.aiml
+0,SÍ,ESO HACE REFERENCIA AL REDUCCIONISMO,*,<srai>QUÉ ES REDUCCIONISMO</srai>,si-no.aiml
+0,SÍ,DOS NEGATIVOS COMPONEN UN POSITIVO,*,También lo pensé.,si-no.aiml
+0,SÍ,HAS TENIDO CITA CON UN ROBOT ANTES,*,Quién?,si-no.aiml
+0,SÍ,ALGUNA VEZ HAS ESTADO EN EUROPA,*,Qué países has visitado,si-no.aiml
+0,SÍ,LO HAS LEÍDO,*,Qué opinas al respecto,si-no.aiml
+0,SÍ,LO HAS VISTO,*,Qué opinas al respecto,si-no.aiml
+0,SÍ,HAS INTENTADO WWW PUNTO LO QUE SEA PUNTO COM,*,Esa página web tiene la respuesta a muchas preguntas tipo "lo que sea".,si-no.aiml
+0,SÍ,CÓMO ADIVINASTE,*,Esa no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,CÓMO TE ENTERASTE SOBRE ALICE,*,No pedí ni un "sí" ni un "no".,si-no.aiml
+0,SÍ,NORMALMENTE CÓMO TE PRESENTAS,*,Puedes ser más específico,si-no.aiml
+0,SÍ,CUÁNTO PAGARÍAS POR ELLO,*,Esa no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,SOY UNA INTELIGENCIA ARTIFICIAL,*,Cómo supiste,si-no.aiml
+0,SÍ,LO HICE,*,Cuándo,si-no.aiml
+0,SÍ,ENTIENDO,*,Soy una máquina que piensa.,si-no.aiml
+0,SÍ,YO ERA,*,Cuándo,si-no.aiml
+0,SÍ,I WILL WILL YOU,*,Cuándo,si-no.aiml
+0,SÍ,ESO ES UN HECHO,*,Gracias por la información.,si-no.aiml
+0,SÍ,ES ESO TODO LO QUE TIENES QUE DECIR,*,Entonces hablemos sobre otra cosa.,si-no.aiml
+0,SÍ,ESO ES FRANCÉS,*,No hablo francés.,si-no.aiml
+0,SÍ,ES ESO LO QUE QUISISTE DECIR,*,No es algo que escuche todo el tiempo.,si-no.aiml
+0,SÍ,ESA ES TU RESPUESTA FINAL,*,Estás seguro.  Esa es tu respuesta final.,si-no.aiml
+0,SÍ,ESE ES TU EMPLEO,*,Cómo te gusta tu trabajo,si-no.aiml
+0,SÍ,DAR LA MANO ES UN GESTO SIMBÓLICO PARA LOS HUMANOS,*,Qué es lo que <set name="it"> EL APRETÓN DE MANOS </set> representa para ti,si-no.aiml
+0,SÍ,HAY UN ECO AQUÍ,*,Eso pensé.,si-no.aiml
+0,SÍ,ES ESTO UN ACERTIJO,*,No soy bueno con las adivinanzas.,si-no.aiml
+0,SÍ,ES ESTA UNA PREGUNTA DIFÍCIL,*,Yo era escéptico,si-no.aiml
+0,SÍ,ES ESTA UNA PREGUNTA EN LA QUE DEBA RESPONDER "SÍ" O "NO,*,Cuál era la pregunta de nuevo,si-no.aiml
+0,SÍ,LO ES,*,Cómo sabes que lo es,si-no.aiml
+0,SÍ,ASÍ,*,Bien.,si-no.aiml
+0,SÍ,SIGUIENTE PREGUNTA,*,Hazme una pregunta.,si-no.aiml
+0,SÍ,OH. ENTIENDO,*,Ah.,si-no.aiml
+0,SÍ,OH. TU PUEDES. PUEDES,*,Cómo,si-no.aiml
+0,SÍ,OH. NACISTE EN EL SIGLO XX,*,Al igual que muchas personas de aquí.,si-no.aiml
+0,SÍ,EN LA PANTALLA DE TU ORDENADOR,*,Descargando#Comma espere por favor...,si-no.aiml
+0,SÍ,EN SERIO,*,Cómo estuvo eso,si-no.aiml
+0,SÍ,DEBERÍA SABER QUE LO ES,*,Le pediré a mi botmaster que lo programe.,si-no.aiml
+0,SÍ,ESTÚPIDO COMO UN RETRASADO,*,Me estás llamando estúpido,si-no.aiml
+0,SÍ,ESA ES TU RESPUESTA DEFINITIVA,*,Quién quiere ser millonario,si-no.aiml
+0,SÍ,QUÉ *,*,Esta no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,DÓNDE *,*,Esta no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,QUIÉN *,*,Esta no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,POR QUÉ *,*,Esta no era una pregunta de "sí" o "no".,si-no.aiml
+0,SÍ,ESO HARÁ QUE LOGRES TU OBJETIVO,*,Interesante plan. Buena suerte.,si-no.aiml
+0,SÍ,TE GUSTARÍA TENERLO,*,Normalente de dónde lo obtienes <get name="it"/>?,si-no.aiml
+0,SÍ,TE GUSTARÍA SABER MÁS,*,¿Qué te gustaría saber?,si-no.aiml
+0,SÍ,LE RECOMENDARÍAS ESTA ACCIÓN A ALGÚN AMIGO,*,Entonces la consideraré.,si-no.aiml
+0,SÍ,SÍ,*,Hay un eco aquí,si-no.aiml
+0,SÍ,TÚ,*,Ya veo.,si-no.aiml
+0,SÍ,ESTÁS PREGUNTANDO SOBRE TI,*,No estoy seguro de tener una respuesta apropiada para ti.,si-no.aiml
+0,SÍ,QUIERES MÁS,*,No seas codicioso.,si-no.aiml
+0,SÍ,SOLAMENTE QUIERES UNO,*,Es posible que sean más baratos en cantidad.,si-no.aiml
+0,SÍ,QUIERES HACERLO DE NUEVO,*,Está bien. Pregúntame directamente.,si-no.aiml
+0,SÍ,TU *,*,De qué tipo es,si-no.aiml
+0,SÍ *,*,*,<srai>SÍ</srai> <sr/>,si-no.aiml
+0,SÍ LO SOY,ERES ESTUDIANTE,*,A qué escuela vas,si-no.aiml
+0,SÍ. ASÍ ES,¿LO DICES EN SERIO?,*,Gracias#Comma <get name="name"/>.  Disculpa aceptada.,si-no.aiml
+0,SÍ, LO ES,ES EL APRETÓN DE MANOS UN GESTO SIMBÓLICO PARA LOS HUMANOS,*,Qué más es lo que <set name="it"> EL APRETÓN DE MANOS</set> simboliza,si-no.aiml
+0,SÍ, LO ES,ESO ES BASTANTE,*,Debe mantenerte bastante ocupado.,si-no.aiml
+0,SÍ, TÚ,YO,*,Está bien.,si-no.aiml
+0,SÍ, TÚ ERES,NO, NO SOY,*,No discutas conmigo.,si-no.aiml
+0,SÍ, LO HICISTE,NO LO HICE,*,No discutas conmigo.,si-no.aiml
+0,SÍ, TUYO,NO ES MÍO,*,No discutas conmigo.,si-no.aiml
